@@ -1,0 +1,78 @@
+{
+  "MLP": {
+    "A_vs_B": {
+      "auprc": {
+        "left_mean": 0.9115811662068527,
+        "right_mean": 0.9002731303179716,
+        "absolute_difference": 0.011308035888881029,
+        "difference_std": 0.0022893259741691664,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      },
+      "auroc": {
+        "left_mean": 0.9533951773933712,
+        "right_mean": 0.9426319391199728,
+        "absolute_difference": 0.010763238273398335,
+        "difference_std": 0.0018550188472209368,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      }
+    },
+    "B_vs_C": {
+      "auprc": {
+        "left_mean": 0.9002731303179716,
+        "right_mean": 0.7855543734476871,
+        "absolute_difference": 0.1147187568702845,
+        "difference_std": 0.020776988037700665,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      },
+      "auroc": {
+        "left_mean": 0.9426319391199728,
+        "right_mean": 0.8478818096837145,
+        "absolute_difference": 0.09475012943625849,
+        "difference_std": 0.015540053784827763,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      }
+    }
+  },
+  "GCN": {
+    "A_vs_B": {
+      "auprc": {
+        "left_mean": 0.9145684378880189,
+        "right_mean": 0.9024584814621764,
+        "absolute_difference": 0.012109956425842472,
+        "difference_std": 0.0013901827311418322,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      },
+      "auroc": {
+        "left_mean": 0.9539323181855701,
+        "right_mean": 0.9422135588746418,
+        "absolute_difference": 0.011718759310928384,
+        "difference_std": 0.001153311748791083,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      }
+    },
+    "B_vs_C": {
+      "auprc": {
+        "left_mean": 0.9024584814621764,
+        "right_mean": 0.7903430906592079,
+        "absolute_difference": 0.11211539080296846,
+        "difference_std": 0.017020456665388504,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      },
+      "auroc": {
+        "left_mean": 0.9422135588746418,
+        "right_mean": 0.8499392247613823,
+        "absolute_difference": 0.09227433411325951,
+        "difference_std": 0.01304594055988095,
+        "wilcoxon_statistic": 0.0,
+        "p_value": 0.0625
+      }
+    }
+  }
+}

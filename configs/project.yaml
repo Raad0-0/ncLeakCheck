@@ -1,0 +1,61 @@
+project:
+  name: ncLeakCheck-Disease
+  repository: ncLeakCheck-Core
+  version: 0.1.0
+  primary_domain: mirna_disease
+  local_execution_mode: cpu_first
+  local_gpu_policy: disabled
+
+reproducibility:
+  base_seed: 42
+  deterministic_torch: true
+  cudnn_deterministic: true
+  cudnn_benchmark: false
+
+scope:
+  primary_dataset: HMDD
+  primary_experiment: topology_leakage_a_vs_b
+  mandatory_regimes:
+    - A_leaky_transductive
+    - B_clean_transductive
+    - C_seed_family_cold_mirna
+  deferred_regimes:
+    - D_cold_target
+  primary_metric: auprc
+  secondary_metrics:
+    - auroc
+    - mcc
+    - macro_f1
+    - ece
+    - recall_at_k
+
+models:
+  mandatory:
+    - decoupled_mlp
+    - graph_baseline
+    - bipartite_baseline
+  deferred:
+    - gcnlda
+    - ssclmd
+    - plmf_mda
+    - gslrda
+
+compute:
+  device: cpu
+  data_loader_workers: 0
+  benchmark_folds: 5
+  initial_seeds:
+    - 42
+    - 1337
+    - 2026
+  negative_sampling_ratio: 2
+
+paths:
+  raw_data: data/raw
+  processed_data: data/processed
+  embeddings: data/embeddings
+  results_raw: results/raw
+  results_tables: results/tables
+  results_figures: results/figures
+  checkpoints: checkpoints
+  logs: logs

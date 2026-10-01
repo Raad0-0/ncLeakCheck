@@ -1,0 +1,77 @@
+dataset:
+  name: HMDD
+  target_version: "v4.0"
+  domain: mirna_disease
+  organism: Homo sapiens
+
+raw_data_policy:
+  raw_files_immutable: true
+  raw_data_directory: data/raw/hmdd
+  curated_output_directory: data/processed
+  source_manifest_required: true
+  source_url_required: true
+  retrieval_date_required: true
+  source_file_sha256_required: true
+
+entity_rules:
+  mirna_species_rule: "Retain only normalized miRNA labels beginning with hsa-"
+  mirna_identifier_preference:
+    - normalized_hsa_mirna_name
+    - raw_hmdd_mirna_label
+  disease_identifier_preference:
+    - normalized_disease_label
+    - raw_hmdd_disease_label
+
+evidence_rules:
+  schema_limitation_note: >
+    The HMDD whole-dataset TXT schema contains code, PMID, miRNA, disease,
+    and description but no structured assay-method column. Therefore, the
+    pipeline does not claim assay-specific filtering for qPCR, luciferase,
+    or western blot. PMID, code, and description are retained as provenance.
+
+association_rules:
+  primary_dataset_name: hmdd_v4_human_strict
+  sensitivity_dataset_name: hmdd_v4_human_broad
+
+  strict_include_codes:
+    - genetics_knock down_promote
+    - genetics_knock down_suppress
+    - genetics_overexpression_promote
+    - genetics_overexpression_suppress
+    - genetics_GWAS
+    - circulation_biomarker_diagnosis_up
+    - circulation_biomarker_diagnosis_down
+    - circulation_biomarker_diagnosis_ns
+    - circulation_biomarker_prognosis_up
+    - circulation_biomarker_prognosis_down
+    - circulation_biomarker_prognosis_ns
+    - tissue_expression_up
+    - tissue_expression_down
+    - tissue_expression_ns
+    - epigenetics
+    - exosome
+    - therapeutic target
+
+  broad_only_include_codes:
+    - other
+
+  exclude_codes:
+    - virus_miRNA
+    - target gene
+    - transcription factor target
+    - lncRNA target
+    - circRNA target
+
+  deduplicate_on:
+    - normalized_mirna_id
+    - normalized_disease_label
+
+  duplicate_resolution: >
+    Aggregate codes, PMIDs, descriptions, and source-row counts across
+    duplicate retained miRNA-disease pairs.
+
+  output_policy:
+    - Write a strict pair-level dataset.
+    - Write a broad pair-level sensitivity dataset.
+    - Write all excluded raw records with an explicit exclusion reason.
+    - Write a machine-readable audit JSON and human-readable report.

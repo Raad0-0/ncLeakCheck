@@ -1,0 +1,126 @@
+project:
+  name: ncLeakCheck-Disease
+  version: 0.1.0
+  execution_plan: 35_day_compact_hmdd_first
+  primary_domain: mirna_disease
+  local_mode: cpu_first
+
+dataset:
+  primary_name: hmdd_v4_human_strict
+  pair_table: data/processed/hmdd_v4_human_strict.tsv
+  adjacency_matrix: data/processed/hmdd_v4_strict_adjacency.npy
+  entity_index: data/processed/hmdd_v4_strict_entity_index.json
+  disease_registry: data/processed/hmdd_v4_strict_disease_registry.tsv
+
+  n_mirnas: 1154
+  n_diseases: 1342
+  n_positive_edges: 13035
+
+  graph_definition: >
+    A binary miRNA-disease graph. An edge equals one when at least one retained
+    HMDD v4.0 strict-policy source record supports that normalized miRNA-disease
+    pair. Pair-level provenance remains in the curated TSV.
+
+task:
+  name: binary_bipartite_link_prediction
+  positive_label: 1
+  unknown_pair_policy: >
+    Unobserved pairs are treated as candidate negatives for sampled evaluation,
+    not as biologically confirmed negatives.
+
+reproducibility:
+  base_seed: 42
+  evaluation_seeds:
+    - 42
+    - 1337
+    - 2026
+  folds: 5
+  deterministic_torch: true
+
+evaluation:
+  primary_metric: auprc
+  secondary_metrics:
+    - auroc
+    - mcc
+    - macro_f1
+    - ece
+    - recall_at_k
+
+  initial_negative_sampler: uniform
+  initial_negative_to_positive_ratio: 2
+  threshold_for_mcc_and_f1: 0.5
+
+regimes:
+  A:
+    name: leaky_transductive_control
+    definition: >
+      Construct topology-derived similarity features from A_full before
+      train-test edge splitting. This regime intentionally quantifies the
+      inflation associated with full-graph feature construction.
+    status: mandatory
+
+  B:
+    name: clean_transductive
+    definition: >
+      Split edges before feature construction. Construct all topology-derived
+      similarity features solely from A_train, where test positive edges are
+      masked to zero.
+    status: mandatory
+
+  C:
+    name: mapped_precursor_cold_mirna_sensitivity
+    definition: >
+      Hold out mapped miRNA precursor-family clusters. This is a sensitivity
+      analysis restricted to HMDD miRNA nodes with exact miRBase v22.1
+      hairpin mappings. No mature 5p/3p arm or 7-nt seed is inferred.
+    mapping_file: data/processed/hmdd_v4_strict_precursor_sequence_mapping.tsv
+    cluster_file: data/processed/hmdd_v4_strict_precursor_family_clusters.json
+    status: conditional_after_A_and_B
+
+  D:
+    name: cold_disease
+    status: deferred
+    reason: >
+      Disease Ontology mappings and independently validated disease features
+      are not yet available.
+
+models:
+  required_initial:
+    - decoupled_mlp
+    - gcn_link_predictor
+    - lightgcn_bipartite
+
+  deferred:
+    - gcna_mda_full_reproduction
+    - gcnlda
+    - ssclmd
+    - plmf_mda
+    - gslrda
+    - ncrna_drug_domain
+
+features:
+  initial_mirna_features: trainable_embedding
+  initial_disease_features: trainable_embedding
+  topology_features: fold_isolated_gip
+  disease_ontology_features: deferred
+  foundation_model_features: deferred
+
+reporting:
+  mandatory_outputs:
+    - raw_fold_metrics
+    - split_indices
+    - train_test_edge_counts
+    - auprc_A_vs_B_comparison
+    - leakage_unit_test_results
+    - degree_stratified_metrics
+
+  limitations_to_state:
+    - >
+      HMDD downloaded whole-dataset labels are modeled at precursor/gene-label
+      level when mature-arm identity is not available.
+    - >
+      Regime C is a mapped precursor-level cold-miRNA sensitivity analysis,
+      not a universal mature-seed-family benchmark.
+    - >
+      Unobserved pairs are not assumed to be experimentally validated
+      negatives.

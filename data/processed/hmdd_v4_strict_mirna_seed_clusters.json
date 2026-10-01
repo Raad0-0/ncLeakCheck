@@ -1,0 +1,924 @@
+{
+  "dataset": "hmdd_v4_human_strict",
+  "seed_definition": "mature miRNA nucleotides 2 through 8 inclusive",
+  "python_slice": "sequence[1:8]",
+  "source_fasta": "data/raw/mirbase/mature.fa",
+  "source_fasta_sha256": "dcebb6d21b6e17a0b0b26dbf40bb5eaf20c938cb44d5bb7a17797971bd832ef1",
+  "matching_policy": {
+    "exact_match": "HMDD mature name exactly equals a miRBase mature name",
+    "precursor_style_match": "HMDD arm-agnostic name maps only when exactly one miRBase mature sequence exists",
+    "ambiguous_match": "HMDD arm-agnostic name with multiple mature candidates is excluded from seed-family split unless a separate documented resolution rule is adopted"
+  },
+  "hmdd_mirna_total": 1154,
+  "exact_mature_matches": 0,
+  "unique_precursor_to_mature_matches": 321,
+  "ambiguous_mirnas": 560,
+  "unmapped_mirnas": 273,
+  "mapped_hmdd_mirna_total": 321,
+  "cluster_count": 291,
+  "clusters": {
+    "SEED_AAAAGCU": [
+      "hsa-mir-320e"
+    ],
+    "SEED_AAAAUUU": [
+      "hsa-mir-4282"
+    ],
+    "SEED_AAAGAGG": [
+      "hsa-mir-583"
+    ],
+    "SEED_AAAGCGC": [
+      "hsa-mir-518b"
+    ],
+    "SEED_AAAGCUG": [
+      "hsa-mir-320c",
+      "hsa-mir-320d",
+      "hsa-mir-4429"
+    ],
+    "SEED_AAAGGCG": [
+      "hsa-mir-4484"
+    ],
+    "SEED_AAAGUAA": [
+      "hsa-mir-548i",
+      "hsa-mir-548x",
+      "hsa-mir-559"
+    ],
+    "SEED_AACAAAU": [
+      "hsa-mir-7-1",
+      "hsa-mir-7-2"
+    ],
+    "SEED_AACAUAA": [
+      "hsa-mir-4803"
+    ],
+    "SEED_AACCGUU": [
+      "hsa-mir-451a"
+    ],
+    "SEED_AACGCCU": [
+      "hsa-mir-614"
+    ],
+    "SEED_AACUCUA": [
+      "hsa-mir-618"
+    ],
+    "SEED_AAGACUC": [
+      "hsa-mir-4432"
+    ],
+    "SEED_AAGCAAA": [
+      "hsa-mir-10527"
+    ],
+    "SEED_AAGGAGA": [
+      "hsa-mir-4428"
+    ],
+    "SEED_AAGGUAA": [
+      "hsa-mir-548ag"
+    ],
+    "SEED_AAGUAGC": [
+      "hsa-mir-562"
+    ],
+    "SEED_AAGUCUU": [
+      "hsa-mir-1264"
+    ],
+    "SEED_AAGUGUG": [
+      "hsa-mir-595"
+    ],
+    "SEED_ACACACU": [
+      "hsa-mir-603"
+    ],
+    "SEED_ACACGGG": [
+      "hsa-mir-602"
+    ],
+    "SEED_ACAGAUG": [
+      "hsa-mir-5683"
+    ],
+    "SEED_ACAUUCA": [
+      "hsa-mir-4262"
+    ],
+    "SEED_ACCAGCA": [
+      "hsa-mir-634"
+    ],
+    "SEED_ACGCACU": [
+      "hsa-mir-521"
+    ],
+    "SEED_ACUCGUG": [
+      "hsa-mir-4636"
+    ],
+    "SEED_ACUGGAC": [
+      "hsa-mir-378e"
+    ],
+    "SEED_ACUGGCU": [
+      "hsa-mir-892b"
+    ],
+    "SEED_ACUGUAG": [
+      "hsa-mir-1183"
+    ],
+    "SEED_ACUGUGU": [
+      "hsa-mir-892a"
+    ],
+    "SEED_AGAAAUG": [
+      "hsa-mir-5680"
+    ],
+    "SEED_AGACUGG": [
+      "hsa-mir-4463"
+    ],
+    "SEED_AGAGAAU": [
+      "hsa-mir-3123"
+    ],
+    "SEED_AGAGGAA": [
+      "hsa-mir-3125"
+    ],
+    "SEED_AGCACCA": [
+      "hsa-mir-29b"
+    ],
+    "SEED_AGCAGCA": [
+      "hsa-mir-16"
+    ],
+    "SEED_AGCAGCU": [
+      "hsa-mir-646"
+    ],
+    "SEED_AGCAUUC": [
+      "hsa-mir-1179"
+    ],
+    "SEED_AGCCAGU": [
+      "hsa-mir-575"
+    ],
+    "SEED_AGCCCCA": [
+      "hsa-mir-4323"
+    ],
+    "SEED_AGCCCUU": [
+      "hsa-mir-129-1",
+      "hsa-mir-129-2"
+    ],
+    "SEED_AGCCUGA": [
+      "hsa-mir-4293"
+    ],
+    "SEED_AGCCUGC": [
+      "hsa-mir-596"
+    ],
+    "SEED_AGCUUGG": [
+      "hsa-mir-4538"
+    ],
+    "SEED_AGGAAAC": [
+      "hsa-mir-4496"
+    ],
+    "SEED_AGGACAC": [
+      "hsa-mir-1197"
+    ],
+    "SEED_AGGAUGG": [
+      "hsa-mir-2392"
+    ],
+    "SEED_AGGAUGU": [
+      "hsa-mir-1265"
+    ],
+    "SEED_AGGGAGG": [
+      "hsa-mir-1321"
+    ],
+    "SEED_AGGGUCU": [
+      "hsa-mir-1182"
+    ],
+    "SEED_AGUAACA": [
+      "hsa-mir-802"
+    ],
+    "SEED_AGUGAUC": [
+      "hsa-mir-8079"
+    ],
+    "SEED_AGUGCAA": [
+      "hsa-mir-3666",
+      "hsa-mir-4295"
+    ],
+    "SEED_AGUGUGC": [
+      "hsa-mir-648"
+    ],
+    "SEED_AGUUCUA": [
+      "hsa-mir-3168"
+    ],
+    "SEED_AUGAUGA": [
+      "hsa-mir-1272"
+    ],
+    "SEED_AUGAUGC": [
+      "hsa-mir-1322"
+    ],
+    "SEED_AUGGAUU": [
+      "hsa-mir-1246"
+    ],
+    "SEED_AUGGUUC": [
+      "hsa-mir-218-2"
+    ],
+    "SEED_AUUGCAC": [
+      "hsa-mir-92a"
+    ],
+    "SEED_CAAAACU": [
+      "hsa-mir-1323"
+    ],
+    "SEED_CAAAAUC": [
+      "hsa-mir-8063"
+    ],
+    "SEED_CAAAAUG": [
+      "hsa-mir-4698"
+    ],
+    "SEED_CAAAGUG": [
+      "hsa-mir-520h"
+    ],
+    "SEED_CAACAAC": [
+      "hsa-mir-196a-1"
+    ],
+    "SEED_CAAUAUU": [
+      "hsa-mir-16-2"
+    ],
+    "SEED_CACAAAU": [
+      "hsa-mir-4719"
+    ],
+    "SEED_CACAAGU": [
+      "hsa-mir-125b-2"
+    ],
+    "SEED_CACAGUG": [
+      "hsa-mir-128"
+    ],
+    "SEED_CACUGUU": [
+      "hsa-mir-1208"
+    ],
+    "SEED_CAGACAG": [
+      "hsa-mir-1324"
+    ],
+    "SEED_CAGAGGU": [
+      "hsa-mir-4257"
+    ],
+    "SEED_CAGCAGA": [
+      "hsa-mir-922"
+    ],
+    "SEED_CAGCAGG": [
+      "hsa-mir-761"
+    ],
+    "SEED_CAGCAUU": [
+      "hsa-mir-4310"
+    ],
+    "SEED_CAGGCAC": [
+      "hsa-mir-4269"
+    ],
+    "SEED_CAGGCUC": [
+      "hsa-mir-484"
+    ],
+    "SEED_CAGGGAG": [
+      "hsa-mir-4270"
+    ],
+    "SEED_CAGUAGA": [
+      "hsa-mir-936"
+    ],
+    "SEED_CAGUAUU": [
+      "hsa-mir-16-1"
+    ],
+    "SEED_CAGUCUG": [
+      "hsa-mir-622"
+    ],
+    "SEED_CAGUGGG": [
+      "hsa-mir-194"
+    ],
+    "SEED_CAGUUUU": [
+      "hsa-mir-4328"
+    ],
+    "SEED_CAUACUU": [
+      "hsa-mir-1"
+    ],
+    "SEED_CAUAGCC": [
+      "hsa-mir-103b"
+    ],
+    "SEED_CAUUGCC": [
+      "hsa-mir-4317"
+    ],
+    "SEED_CAUUUUU": [
+      "hsa-mir-153"
+    ],
+    "SEED_CCACUGA": [
+      "hsa-mir-181a-2"
+    ],
+    "SEED_CCAGCAG": [
+      "hsa-mir-4530"
+    ],
+    "SEED_CCAGGCA": [
+      "hsa-mir-4673"
+    ],
+    "SEED_CCAGUGC": [
+      "hsa-mir-1825"
+    ],
+    "SEED_CCCACGU": [
+      "hsa-mir-662"
+    ],
+    "SEED_CCCACUA": [
+      "hsa-mir-4301"
+    ],
+    "SEED_CCCCACU": [
+      "hsa-mir-4286"
+    ],
+    "SEED_CCCUCCG": [
+      "hsa-mir-1470"
+    ],
+    "SEED_CCCUGAG": [
+      "hsa-mir-125b",
+      "hsa-mir-4319"
+    ],
+    "SEED_CCCUGGA": [
+      "hsa-mir-4308"
+    ],
+    "SEED_CCCUGGG": [
+      "hsa-mir-4292"
+    ],
+    "SEED_CCGGACA": [
+      "hsa-mir-4442"
+    ],
+    "SEED_CCGGAGC": [
+      "hsa-mir-1203"
+    ],
+    "SEED_CCUCCUC": [
+      "hsa-mir-5193"
+    ],
+    "SEED_CCUGAGA": [
+      "hsa-mir-4324"
+    ],
+    "SEED_CCUGAGG": [
+      "hsa-mir-544b"
+    ],
+    "SEED_CCUGCGC": [
+      "hsa-mir-1539"
+    ],
+    "SEED_CCUGGCA": [
+      "hsa-mir-8073"
+    ],
+    "SEED_CGACUCU": [
+      "hsa-mir-4431"
+    ],
+    "SEED_CGAGGAC": [
+      "hsa-mir-3131",
+      "hsa-mir-611"
+    ],
+    "SEED_CGCCUCC": [
+      "hsa-mir-1281"
+    ],
+    "SEED_CGGAGAG": [
+      "hsa-mir-5739"
+    ],
+    "SEED_CGGCCCA": [
+      "hsa-mir-6075"
+    ],
+    "SEED_CGGGGCU": [
+      "hsa-mir-4508"
+    ],
+    "SEED_CGGGUUA": [
+      "hsa-mir-125b-1"
+    ],
+    "SEED_CGUGGCC": [
+      "hsa-mir-1204"
+    ],
+    "SEED_CUAAAGA": [
+      "hsa-mir-4744"
+    ],
+    "SEED_CUACAAA": [
+      "hsa-mir-1283"
+    ],
+    "SEED_CUAGGCU": [
+      "hsa-mir-645"
+    ],
+    "SEED_CUAUUCU": [
+      "hsa-mir-26a-1",
+      "hsa-mir-26a-2"
+    ],
+    "SEED_CUAUUUC": [
+      "hsa-mir-138-2"
+    ],
+    "SEED_CUCUAGA": [
+      "hsa-mir-517"
+    ],
+    "SEED_CUGCAGC": [
+      "hsa-mir-1184"
+    ],
+    "SEED_CUGCAGG": [
+      "hsa-mir-1205"
+    ],
+    "SEED_CUGCGAG": [
+      "hsa-mir-6068"
+    ],
+    "SEED_CUGGACU": [
+      "hsa-mir-378b",
+      "hsa-mir-378c",
+      "hsa-mir-422a"
+    ],
+    "SEED_CUGGGCA": [
+      "hsa-mir-1285"
+    ],
+    "SEED_CUGGGCG": [
+      "hsa-mir-4486"
+    ],
+    "SEED_CUGGGGG": [
+      "hsa-mir-637"
+    ],
+    "SEED_CUGGUAA": [
+      "hsa-mir-4490"
+    ],
+    "SEED_CUGGUGA": [
+      "hsa-mir-4299"
+    ],
+    "SEED_CUGGUGG": [
+      "hsa-mir-4456"
+    ],
+    "SEED_CUGGUUU": [
+      "hsa-mir-29b-1"
+    ],
+    "SEED_CUUGGGC": [
+      "hsa-mir-635"
+    ],
+    "SEED_GAAGGGA": [
+      "hsa-mir-7515"
+    ],
+    "SEED_GACCAUG": [
+      "hsa-mir-591"
+    ],
+    "SEED_GACCUGG": [
+      "hsa-mir-631"
+    ],
+    "SEED_GACUGAC": [
+      "hsa-mir-4513"
+    ],
+    "SEED_GACUUCC": [
+      "hsa-mir-617"
+    ],
+    "SEED_GAGAAGA": [
+      "hsa-mir-1253"
+    ],
+    "SEED_GAGCUAA": [
+      "hsa-mir-610"
+    ],
+    "SEED_GAGCUGG": [
+      "hsa-mir-4487"
+    ],
+    "SEED_GAGGCAG": [
+      "hsa-mir-1827"
+    ],
+    "SEED_GAGGCCG": [
+      "hsa-mir-6089"
+    ],
+    "SEED_GAGGGAG": [
+      "hsa-mir-4510"
+    ],
+    "SEED_GAGGGGU": [
+      "hsa-mir-5194"
+    ],
+    "SEED_GAGGUAG": [
+      "hsa-let-7f",
+      "hsa-mir-4458",
+      "hsa-mir-4500"
+    ],
+    "SEED_GAGGUUG": [
+      "hsa-mir-6086"
+    ],
+    "SEED_GAGUCAG": [
+      "hsa-mir-5702"
+    ],
+    "SEED_GAGUCUU": [
+      "hsa-mir-924"
+    ],
+    "SEED_GAGUUGA": [
+      "hsa-mir-219a-1"
+    ],
+    "SEED_GAGUUGG": [
+      "hsa-mir-571"
+    ],
+    "SEED_GAUGGAG": [
+      "hsa-mir-4534"
+    ],
+    "SEED_GAUGGUU": [
+      "hsa-mir-8069"
+    ],
+    "SEED_GAUUGUC": [
+      "hsa-mir-219a"
+    ],
+    "SEED_GCAACUU": [
+      "hsa-mir-891b"
+    ],
+    "SEED_GCAGAAG": [
+      "hsa-mir-298"
+    ],
+    "SEED_GCAGCAU": [
+      "hsa-mir-103a"
+    ],
+    "SEED_GCAGCUC": [
+      "hsa-mir-4660"
+    ],
+    "SEED_GCAGUGU": [
+      "hsa-mir-4435-1",
+      "hsa-mir-4435-2"
+    ],
+    "SEED_GCCAAGU": [
+      "hsa-mir-4480"
+    ],
+    "SEED_GCCCUCC": [
+      "hsa-mir-4290"
+    ],
+    "SEED_GCCCUUA": [
+      "hsa-mir-938"
+    ],
+    "SEED_GCCUACU": [
+      "hsa-mir-24-1"
+    ],
+    "SEED_GCCUGGG": [
+      "hsa-mir-661"
+    ],
+    "SEED_GCCUUCC": [
+      "hsa-mir-4297"
+    ],
+    "SEED_GCGGAGG": [
+      "hsa-mir-658"
+    ],
+    "SEED_GCGGGCG": [
+      "hsa-mir-4767"
+    ],
+    "SEED_GCUAGCA": [
+      "hsa-mir-621"
+    ],
+    "SEED_GCUCCUC": [
+      "hsa-mir-4268"
+    ],
+    "SEED_GCUCCUU": [
+      "hsa-mir-4448"
+    ],
+    "SEED_GCUGGUG": [
+      "hsa-mir-138"
+    ],
+    "SEED_GCUGUAC": [
+      "hsa-mir-4718"
+    ],
+    "SEED_GCUGUCU": [
+      "hsa-mir-626"
+    ],
+    "SEED_GCUUCUU": [
+      "hsa-mir-103a-2"
+    ],
+    "SEED_GGAAAAG": [
+      "hsa-mir-6124"
+    ],
+    "SEED_GGAAACA": [
+      "hsa-mir-4261"
+    ],
+    "SEED_GGAAGAC": [
+      "hsa-mir-7"
+    ],
+    "SEED_GGAAUGU": [
+      "hsa-mir-206",
+      "hsa-mir-613"
+    ],
+    "SEED_GGACCCA": [
+      "hsa-mir-711"
+    ],
+    "SEED_GGACCUG": [
+      "hsa-mir-492"
+    ],
+    "SEED_GGAGAGA": [
+      "hsa-mir-4306",
+      "hsa-mir-4644"
+    ],
+    "SEED_GGAGGAG": [
+      "hsa-mir-765"
+    ],
+    "SEED_GGAGGCA": [
+      "hsa-mir-650"
+    ],
+    "SEED_GGAUAUG": [
+      "hsa-mir-3201",
+      "hsa-mir-4791"
+    ],
+    "SEED_GGAUGAG": [
+      "hsa-mir-1255b"
+    ],
+    "SEED_GGAUGGU": [
+      "hsa-mir-1193"
+    ],
+    "SEED_GGCACGG": [
+      "hsa-mir-564"
+    ],
+    "SEED_GGCAGGU": [
+      "hsa-mir-4736"
+    ],
+    "SEED_GGCCAAA": [
+      "hsa-mir-3926"
+    ],
+    "SEED_GGCUAGG": [
+      "hsa-mir-6069"
+    ],
+    "SEED_GGCUCAC": [
+      "hsa-mir-4284"
+    ],
+    "SEED_GGCUCAG": [
+      "hsa-mir-24"
+    ],
+    "SEED_GGCUGCG": [
+      "hsa-mir-604"
+    ],
+    "SEED_GGCUGGG": [
+      "hsa-mir-4505",
+      "hsa-mir-5787"
+    ],
+    "SEED_GGGAUCG": [
+      "hsa-mir-638"
+    ],
+    "SEED_GGGCCUG": [
+      "hsa-mir-2861"
+    ],
+    "SEED_GGGCUGA": [
+      "hsa-mir-4656"
+    ],
+    "SEED_GGGCUGG": [
+      "hsa-mir-4492",
+      "hsa-mir-4498",
+      "hsa-mir-762"
+    ],
+    "SEED_GGGCUGU": [
+      "hsa-mir-4741"
+    ],
+    "SEED_GGGGAAG": [
+      "hsa-mir-4271"
+    ],
+    "SEED_GGGGAUU": [
+      "hsa-mir-4450"
+    ],
+    "SEED_GGGGCCG": [
+      "hsa-mir-128-1",
+      "hsa-mir-128-2"
+    ],
+    "SEED_GGGGGCG": [
+      "hsa-mir-4488"
+    ],
+    "SEED_GGGGUGG": [
+      "hsa-mir-4651",
+      "hsa-mir-608"
+    ],
+    "SEED_GGGUAAG": [
+      "hsa-mir-555"
+    ],
+    "SEED_GGGUGUG": [
+      "hsa-mir-4455"
+    ],
+    "SEED_GGGUGUU": [
+      "hsa-mir-609"
+    ],
+    "SEED_GGUCUAG": [
+      "hsa-mir-601"
+    ],
+    "SEED_GGUGCUC": [
+      "hsa-mir-3907"
+    ],
+    "SEED_GGUGGGG": [
+      "hsa-mir-92a-2"
+    ],
+    "SEED_GGUUGAC": [
+      "hsa-mir-563"
+    ],
+    "SEED_GGUUGGG": [
+      "hsa-mir-92a-1"
+    ],
+    "SEED_GUAAACA": [
+      "hsa-mir-30c"
+    ],
+    "SEED_GUAUUCU": [
+      "hsa-mir-630"
+    ],
+    "SEED_GUCCAGA": [
+      "hsa-mir-198"
+    ],
+    "SEED_GUGCAAA": [
+      "hsa-mir-19b"
+    ],
+    "SEED_GUGCGCA": [
+      "hsa-mir-933"
+    ],
+    "SEED_GUGGGGG": [
+      "hsa-mir-4447"
+    ],
+    "SEED_GUGUCCG": [
+      "hsa-mir-4669"
+    ],
+    "SEED_GUGUGGC": [
+      "hsa-mir-644a"
+    ],
+    "SEED_GUUCAUG": [
+      "hsa-mir-1206"
+    ],
+    "SEED_GUUGGGA": [
+      "hsa-mir-4425"
+    ],
+    "SEED_GUUUGUU": [
+      "hsa-mir-8068"
+    ],
+    "SEED_GUUUUGC": [
+      "hsa-mir-19b-1"
+    ],
+    "SEED_UAAUAGU": [
+      "hsa-mir-633"
+    ],
+    "SEED_UAGGAGG": [
+      "hsa-mir-4266",
+      "hsa-mir-657"
+    ],
+    "SEED_UAUACAA": [
+      "hsa-let-7f-1"
+    ],
+    "SEED_UAUACAG": [
+      "hsa-let-7f-2",
+      "hsa-mir-1185-1"
+    ],
+    "SEED_UAUGGCG": [
+      "hsa-mir-8074"
+    ],
+    "SEED_UAUUGUC": [
+      "hsa-mir-5701"
+    ],
+    "SEED_UCAAGUA": [
+      "hsa-mir-26a",
+      "hsa-mir-4465"
+    ],
+    "SEED_UCACAUU": [
+      "hsa-mir-23c"
+    ],
+    "SEED_UCACUGA": [
+      "hsa-mir-181b-2"
+    ],
+    "SEED_UCAGAUC": [
+      "hsa-mir-5100"
+    ],
+    "SEED_UCCCACC": [
+      "hsa-mir-1260a"
+    ],
+    "SEED_UCCCAGC": [
+      "hsa-mir-7977"
+    ],
+    "SEED_UCCCUUG": [
+      "hsa-mir-623"
+    ],
+    "SEED_UCCGCUC": [
+      "hsa-mir-572"
+    ],
+    "SEED_UCCUGAG": [
+      "hsa-mir-1200"
+    ],
+    "SEED_UCGCUGC": [
+      "hsa-mir-639"
+    ],
+    "SEED_UCGGCGC": [
+      "hsa-mir-1469"
+    ],
+    "SEED_UCGGGCC": [
+      "hsa-mir-3181"
+    ],
+    "SEED_UCGUGCA": [
+      "hsa-mir-517a",
+      "hsa-mir-517b",
+      "hsa-mir-517c"
+    ],
+    "SEED_UCUGAGG": [
+      "hsa-mir-12119"
+    ],
+    "SEED_UCUGCUG": [
+      "hsa-mir-6071"
+    ],
+    "SEED_UCUGGAA": [
+      "hsa-mir-1299"
+    ],
+    "SEED_UGAAGUG": [
+      "hsa-mir-573"
+    ],
+    "SEED_UGAUCCA": [
+      "hsa-mir-640"
+    ],
+    "SEED_UGCAAAG": [
+      "hsa-mir-527"
+    ],
+    "SEED_UGCACCG": [
+      "hsa-mir-3130"
+    ],
+    "SEED_UGCAUAU": [
+      "hsa-mir-448"
+    ],
+    "SEED_UGCCAGC": [
+      "hsa-mir-1202"
+    ],
+    "SEED_UGCCUAC": [
+      "hsa-mir-24-2"
+    ],
+    "SEED_UGCUUCA": [
+      "hsa-mir-3977"
+    ],
+    "SEED_UGGACUG": [
+      "hsa-mir-1269b"
+    ],
+    "SEED_UGGAGAU": [
+      "hsa-mir-1270"
+    ],
+    "SEED_UGGAGGC": [
+      "hsa-mir-4443"
+    ],
+    "SEED_UGGAUAA": [
+      "hsa-mir-1261"
+    ],
+    "SEED_UGGCCAG": [
+      "hsa-mir-4435"
+    ],
+    "SEED_UGGCGGA": [
+      "hsa-mir-4730"
+    ],
+    "SEED_UGGCUGC": [
+      "hsa-mir-647"
+    ],
+    "SEED_UGGGACA": [
+      "hsa-mir-1302"
+    ],
+    "SEED_UGGGCUG": [
+      "hsa-mir-1587"
+    ],
+    "SEED_UGGGGGA": [
+      "hsa-mir-1275"
+    ],
+    "SEED_UGGGUGA": [
+      "hsa-mir-1262"
+    ],
+    "SEED_UGGUACC": [
+      "hsa-mir-1263"
+    ],
+    "SEED_UGUAAUA": [
+      "hsa-mir-2054"
+    ],
+    "SEED_UGUACAG": [
+      "hsa-let-7a-2"
+    ],
+    "SEED_UGUAUAA": [
+      "hsa-mir-568"
+    ],
+    "SEED_UGUCUGC": [
+      "hsa-mir-4288",
+      "hsa-mir-632"
+    ],
+    "SEED_UGUCUGG": [
+      "hsa-mir-1231"
+    ],
+    "SEED_UGUGCUU": [
+      "hsa-mir-218"
+    ],
+    "SEED_UGUGGGC": [
+      "hsa-mir-4296"
+    ],
+    "SEED_UGUGUCA": [
+      "hsa-mir-592"
+    ],
+    "SEED_UGUGUGG": [
+      "hsa-mir-147a"
+    ],
+    "SEED_UGUUAAU": [
+      "hsa-mir-2053"
+    ],
+    "SEED_UUAAGGA": [
+      "hsa-mir-4477b"
+    ],
+    "SEED_UUAGACU": [
+      "hsa-mir-7702"
+    ],
+    "SEED_UUAGGGC": [
+      "hsa-mir-2909"
+    ],
+    "SEED_UUCAAGU": [
+      "hsa-mir-1297"
+    ],
+    "SEED_UUCCAUA": [
+      "hsa-mir-587"
+    ],
+    "SEED_UUCCGCC": [
+      "hsa-mir-718"
+    ],
+    "SEED_UUCCUAG": [
+      "hsa-mir-384"
+    ],
+    "SEED_UUCUAUU": [
+      "hsa-mir-4482"
+    ],
+    "SEED_UUGGGGA": [
+      "hsa-mir-450a-2"
+    ],
+    "SEED_UUGGGGC": [
+      "hsa-mir-4260"
+    ],
+    "SEED_UUGUGUC": [
+      "hsa-mir-599"
+    ],
+    "SEED_UUUCAAC": [
+      "hsa-mir-1305"
+    ],
+    "SEED_UUUGAGC": [
+      "hsa-mir-8055"
+    ],
+    "SEED_UUUGCAC": [
+      "hsa-mir-507",
+      "hsa-mir-557"
+    ],
+    "SEED_UUUGCGA": [
+      "hsa-mir-450a"
+    ],
+    "SEED_UUUGUGC": [
+      "hsa-mir-2113"
+    ],
+    "SEED_UUUUUGC": [
+      "hsa-mir-129"
+    ]
+  }
+}

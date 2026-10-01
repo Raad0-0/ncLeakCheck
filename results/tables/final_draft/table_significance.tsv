@@ -1,0 +1,9 @@
+model	comparison	metric	mean_difference	wilcoxon_statistic	p_value	test_design
+MLP	A_vs_B	auprc	0.011308	0.000000	0.062500	5 paired folds
+MLP	A_vs_B	auroc	0.010763	0.000000	0.062500	5 paired folds
+MLP	B_vs_C	auprc	0.114719	0.000000	0.062500	5 paired folds
+MLP	B_vs_C	auroc	0.094750	0.000000	0.062500	5 paired folds
+GCN	A_vs_B	auprc	0.012110	0.000000	0.062500	5 paired folds
+GCN	A_vs_B	auroc	0.011719	0.000000	0.062500	5 paired folds
+GCN	B_vs_C	auprc	0.112115	0.000000	0.062500	5 paired folds
+GCN	B_vs_C	auroc	0.092274	0.000000	0.062500	5 paired folds

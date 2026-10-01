@@ -1,0 +1,27 @@
+# Python bytecode and test/editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments and editor configuration
+.venv/
+.vscode/
+
+# Raw, curated, and derived data: retain placeholders only
+/data/raw/*
+!/data/raw/.gitkeep
+/data/embeddings/*
+!/data/embeddings/.gitkeep
+
+# Experiment outputs and trained weights: retain placeholders only
+/checkpoints/*
+!/checkpoints/.gitkeep
+
+# Secrets and local temporary files
+.env
+*.tmp
+*.bak
+*.swp

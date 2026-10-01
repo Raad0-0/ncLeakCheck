@@ -1,0 +1,187 @@
+{
+  "dataset": "hmdd_v4_human_strict",
+  "miRNAs": 1154,
+  "diseases": 1342,
+  "edges": 13035,
+  "possible_edges": 1548668,
+  "density": 0.008416910532147626,
+  "sparsity": 0.9915830894678523,
+  "miRNA_degree": {
+    "min": 1,
+    "median": 3.0,
+    "mean": 11.295493934142115,
+    "p90": 34.0,
+    "max": 296
+  },
+  "disease_degree": {
+    "min": 1,
+    "median": 2.0,
+    "mean": 9.71311475409836,
+    "p90": 19.0,
+    "max": 345
+  },
+  "top_miRNA_hubs": [
+    [
+      "hsa-mir-21",
+      296
+    ],
+    [
+      "hsa-mir-155",
+      222
+    ],
+    [
+      "hsa-mir-146a",
+      187
+    ],
+    [
+      "hsa-mir-145",
+      130
+    ],
+    [
+      "hsa-mir-223",
+      129
+    ],
+    [
+      "hsa-mir-34a",
+      124
+    ],
+    [
+      "hsa-mir-122",
+      119
+    ],
+    [
+      "hsa-mir-126",
+      119
+    ],
+    [
+      "hsa-mir-1",
+      116
+    ],
+    [
+      "hsa-mir-124",
+      112
+    ],
+    [
+      "hsa-mir-125b",
+      102
+    ],
+    [
+      "hsa-mir-24",
+      101
+    ],
+    [
+      "hsa-mir-29a",
+      101
+    ],
+    [
+      "hsa-mir-181a",
+      98
+    ],
+    [
+      "hsa-mir-142",
+      95
+    ],
+    [
+      "hsa-mir-143",
+      90
+    ],
+    [
+      "hsa-mir-214",
+      90
+    ],
+    [
+      "hsa-mir-150",
+      89
+    ],
+    [
+      "hsa-mir-20a",
+      88
+    ],
+    [
+      "hsa-mir-16",
+      87
+    ]
+  ],
+  "top_disease_hubs": [
+    [
+      "carcinoma, hepatocellular",
+      345
+    ],
+    [
+      "carcinoma, non-small-cell lung",
+      345
+    ],
+    [
+      "breast neoplasms",
+      324
+    ],
+    [
+      "stomach neoplasms",
+      316
+    ],
+    [
+      "colorectal neoplasms",
+      316
+    ],
+    [
+      "osteosarcoma",
+      214
+    ],
+    [
+      "glioma",
+      198
+    ],
+    [
+      "ovarian neoplasms",
+      195
+    ],
+    [
+      "uterine cervical neoplasms",
+      193
+    ],
+    [
+      "squamous cell carcinoma of head and neck",
+      191
+    ],
+    [
+      "prostatic neoplasms",
+      183
+    ],
+    [
+      "lung neoplasms",
+      163
+    ],
+    [
+      "esophageal squamous cell carcinoma",
+      137
+    ],
+    [
+      "pancreatic carcinoma",
+      133
+    ],
+    [
+      "adenocarcinoma of lung",
+      132
+    ],
+    [
+      "urinary bladder neoplasms",
+      124
+    ],
+    [
+      "diabetes mellitus, type 2",
+      122
+    ],
+    [
+      "glioblastoma",
+      121
+    ],
+    [
+      "nasopharyngeal carcinoma",
+      116
+    ],
+    [
+      "carcinoma, renal cell",
+      115
+    ]
+  ]
+}

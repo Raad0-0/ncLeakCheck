@@ -1,0 +1,300 @@
+{
+  "source_file": "data/raw/hmdd/hmdd_v4_2023_07_original.txt",
+  "schema": [
+    "code",
+    "PMID",
+    "miRNA",
+    "disease",
+    "description"
+  ],
+  "row_count": 53553,
+  "missing_values_by_column": {},
+  "code_distribution": {
+    "other": 17442,
+    "target gene": 1137,
+    "exosome": 1558,
+    "genetics_knock down_suppress": 884,
+    "circulation_biomarker_diagnosis_ns": 3439,
+    "circulation_biomarker_diagnosis_up": 2148,
+    "therapeutic target": 31,
+    "genetics_GWAS": 1303,
+    "genetics_overexpression_suppress": 1019,
+    "genetics_knock down_promote": 2277,
+    "lncRNA target": 11309,
+    "transcription factor target": 4358,
+    "genetics_overexpression_promote": 3636,
+    "circulation_biomarker_prognosis_ns": 447,
+    "circulation_biomarker_diagnosis_down": 363,
+    "circRNA target": 951,
+    "epigenetics": 385,
+    "circulation_biomarker_prognosis_up": 248,
+    "tissue_expression_up": 146,
+    "tissue_expression_ns": 161,
+    "virus_miRNA": 173,
+    "circulation_biomarker_prognosis_down": 46,
+    "tissue_expression_down": 92
+  },
+  "mirna_class_distribution": {
+    "human_hsa": 53375,
+    "likely_viral": 165,
+    "other_or_unresolved": 13
+  },
+  "unique_mirna_labels": 1895,
+  "unique_disease_labels": 2353,
+  "unique_pmids": 37022,
+  "unique_mirna_disease_pmid_triplets": 53546,
+  "repeated_triplet_keys": 7,
+  "extra_rows_from_repeated_triplets": 7,
+  "description_length_distribution": {
+    "1-100": 11555,
+    "101-500": 41306,
+    "501-2000": 681,
+    ">2000": 11
+  },
+  "top_codes": [
+    {
+      "value": "other",
+      "count": 17442
+    },
+    {
+      "value": "lncRNA target",
+      "count": 11309
+    },
+    {
+      "value": "transcription factor target",
+      "count": 4358
+    },
+    {
+      "value": "genetics_overexpression_promote",
+      "count": 3636
+    },
+    {
+      "value": "circulation_biomarker_diagnosis_ns",
+      "count": 3439
+    },
+    {
+      "value": "genetics_knock down_promote",
+      "count": 2277
+    },
+    {
+      "value": "circulation_biomarker_diagnosis_up",
+      "count": 2148
+    },
+    {
+      "value": "exosome",
+      "count": 1558
+    },
+    {
+      "value": "genetics_GWAS",
+      "count": 1303
+    },
+    {
+      "value": "target gene",
+      "count": 1137
+    },
+    {
+      "value": "genetics_overexpression_suppress",
+      "count": 1019
+    },
+    {
+      "value": "circRNA target",
+      "count": 951
+    },
+    {
+      "value": "genetics_knock down_suppress",
+      "count": 884
+    },
+    {
+      "value": "circulation_biomarker_prognosis_ns",
+      "count": 447
+    },
+    {
+      "value": "epigenetics",
+      "count": 385
+    },
+    {
+      "value": "circulation_biomarker_diagnosis_down",
+      "count": 363
+    },
+    {
+      "value": "circulation_biomarker_prognosis_up",
+      "count": 248
+    },
+    {
+      "value": "virus_miRNA",
+      "count": 173
+    },
+    {
+      "value": "tissue_expression_ns",
+      "count": 161
+    },
+    {
+      "value": "tissue_expression_up",
+      "count": 146
+    }
+  ],
+  "top_mirnas": [
+    {
+      "value": "hsa-mir-21",
+      "count": 1812
+    },
+    {
+      "value": "hsa-mir-155",
+      "count": 1157
+    },
+    {
+      "value": "hsa-mir-146a",
+      "count": 905
+    },
+    {
+      "value": "hsa-mir-34a",
+      "count": 820
+    },
+    {
+      "value": "hsa-mir-145",
+      "count": 717
+    },
+    {
+      "value": "hsa-mir-122",
+      "count": 597
+    },
+    {
+      "value": "hsa-mir-223",
+      "count": 589
+    },
+    {
+      "value": "hsa-mir-1",
+      "count": 586
+    },
+    {
+      "value": "hsa-mir-124",
+      "count": 538
+    },
+    {
+      "value": "hsa-mir-126",
+      "count": 534
+    },
+    {
+      "value": "hsa-mir-29a",
+      "count": 454
+    },
+    {
+      "value": "hsa-mir-20a",
+      "count": 444
+    },
+    {
+      "value": "hsa-mir-17",
+      "count": 443
+    },
+    {
+      "value": "hsa-mir-16",
+      "count": 422
+    },
+    {
+      "value": "hsa-mir-221",
+      "count": 420
+    },
+    {
+      "value": "hsa-mir-143",
+      "count": 418
+    },
+    {
+      "value": "hsa-mir-142",
+      "count": 418
+    },
+    {
+      "value": "hsa-mir-125b",
+      "count": 417
+    },
+    {
+      "value": "hsa-mir-181a",
+      "count": 402
+    },
+    {
+      "value": "hsa-mir-22",
+      "count": 388
+    }
+  ],
+  "top_diseases": [
+    {
+      "value": "Breast Neoplasms",
+      "count": 2204
+    },
+    {
+      "value": "Carcinoma, Hepatocellular",
+      "count": 2177
+    },
+    {
+      "value": "Colorectal Neoplasms",
+      "count": 2132
+    },
+    {
+      "value": "Carcinoma, Non-Small-Cell Lung",
+      "count": 1724
+    },
+    {
+      "value": "Stomach Neoplasms",
+      "count": 1627
+    },
+    {
+      "value": "Prostatic Neoplasms",
+      "count": 971
+    },
+    {
+      "value": "Uterine Cervical Neoplasms",
+      "count": 902
+    },
+    {
+      "value": "Osteosarcoma",
+      "count": 900
+    },
+    {
+      "value": "Squamous Cell Carcinoma of Head and Neck",
+      "count": 891
+    },
+    {
+      "value": "Glioma",
+      "count": 817
+    },
+    {
+      "value": "Ovarian Neoplasms",
+      "count": 814
+    },
+    {
+      "value": "Lung Neoplasms",
+      "count": 683
+    },
+    {
+      "value": "Adenocarcinoma of Lung",
+      "count": 612
+    },
+    {
+      "value": "Urinary Bladder Neoplasms",
+      "count": 591
+    },
+    {
+      "value": "Alzheimer Disease",
+      "count": 563
+    },
+    {
+      "value": "Osteoarthritis",
+      "count": 553
+    },
+    {
+      "value": "Pancreatic Carcinoma",
+      "count": 543
+    },
+    {
+      "value": "Esophageal Squamous Cell Carcinoma",
+      "count": 528
+    },
+    {
+      "value": "Diabetes Mellitus, Type 2",
+      "count": 490
+    },
+    {
+      "value": "Glioblastoma",
+      "count": 489
+    }
+  ]
+}

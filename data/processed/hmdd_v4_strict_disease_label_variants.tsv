@@ -1,0 +1,1344 @@
+normalized_disease_label	raw_display_label	pair_count	canonical_text_key
+abnormalities, multiple	Abnormalities, Multiple	4	abnormalities multiple
+abortion, habitual	Abortion, Habitual	19	abortion habitual
+abortion, spontaneous	Abortion, Spontaneous	8	abortion spontaneous
+acidosis, respiratory	Acidosis, Respiratory	1	acidosis respiratory
+acquired immunodeficiency syndrome	Acquired Immunodeficiency Syndrome	38	acquired immunodeficiency syndrome
+acrodermatitis enteropathica	Acrodermatitis enteropathica	2	acrodermatitis enteropathica
+acromegaly	Acromegaly	5	acromegaly
+acth-independent macronodular adrenal hyperplasia	Acth-Independent Macronodular Adrenal Hyperplasia	3	acth independent macronodular adrenal hyperplasia
+acute coronary syndrome	Acute Coronary Syndrome	21	acute coronary syndrome
+acute coronary syndrome, non-st elevation	Acute Coronary Syndrome, Non-St Elevation	3	acute coronary syndrome non st elevation
+acute kidney injury	Acute Kidney Injury	45	acute kidney injury
+acute liver injury	Acute Liver Injury	2	acute liver injury
+acute lung injury	Acute Lung Injury	44	acute lung injury
+acute lung injury, hyperoxic	Acute Lung Injury, Hyperoxic	1	acute lung injury hyperoxic
+acute lymphoblastic leukemia, t-cell	Acute Lymphoblastic Leukemia, T-Cell	6	acute lymphoblastic leukemia t cell
+acute myocardial infarction	acute myocardial infarction	2	acute myocardial infarction
+acute-on-chronic liver failure	Acute-On-Chronic Liver Failure	8	acute on chronic liver failure
+addison disease	Addison Disease	1	addison disease
+adenocarcinoma in situ	Adenocarcinoma in Situ	1	adenocarcinoma in situ
+adenocarcinoma of lung	Adenocarcinoma of Lung	132	adenocarcinoma of lung
+adenocarcinoma, follicular	Adenocarcinoma, Follicular	3	adenocarcinoma follicular
+adenocarcinoma, sebaceous, eyelid	Adenocarcinoma, Sebaceous, Eyelid	1	adenocarcinoma sebaceous eyelid
+adenocarcinoma, sinonasal intestinal	Adenocarcinoma, Sinonasal Intestinal	1	adenocarcinoma sinonasal intestinal
+adenoma	Adenoma	1	adenoma
+adenomatous polyposis coli	Adenomatous Polyposis Coli	6	adenomatous polyposis coli
+adenomyosis	Adenomyosis	12	adenomyosis
+adhesions of uterus	adhesions of uterus	2	adhesions of uterus
+adrenal cortex neoplasms	Adrenal Cortex Neoplasms	1	adrenal cortex neoplasms
+adrenocortical carcinoma	Adrenocortical Carcinoma	2	adrenocortical carcinoma
+aggressive periodontitis	Aggressive Periodontitis	3	aggressive periodontitis
+aging, premature	Aging, Premature	1	aging premature
+aicardi-goutieres syndrome 5	Aicardi-Goutieres syndrome 5	3	aicardi goutieres syndrome 5
+aids-related complex	AIDS-Related Complex	2	aids related complex
+airway inflammation	Airway Inflammation	2	airway inflammation
+airway obstruction	Airway Obstruction	1	airway obstruction
+albuminuria	Albuminuria	4	albuminuria
+alcohol withdrawal syndrome	Alcohol Withdrawal Syndrome	1	alcohol withdrawal syndrome
+alcoholism	Alcoholism	4	alcoholism
+allergic inflammation	Allergic Inflammation	3	allergic inflammation
+alopecia	Alopecia	2	alopecia
+alopecia areata	Alopecia Areata	6	alopecia areata
+alveolar bone loss	Alveolar Bone Loss	2	alveolar bone loss
+alveolar echinococcosis	Alveolar echinococcosis	1	alveolar echinococcosis
+alzheimer disease	Alzheimer Disease	101	alzheimer disease
+ameloblastoma	Ameloblastoma	1	ameloblastoma
+amyloidosis	Amyloidosis	1	amyloidosis
+amyloidosis, hereditary, transthyretin-related	Amyloidosis, Hereditary, Transthyretin-Related	1	amyloidosis hereditary transthyretin related
+amyotrophic lateral sclerosis	Amyotrophic Lateral Sclerosis	18	amyotrophic lateral sclerosis
+anaphylaxis	Anaphylaxis	2	anaphylaxis
+anemia	Anemia	1	anemia
+anemia, aplastic	Anemia, Aplastic	3	anemia aplastic
+anemia, hemolytic	Anemia, Hemolytic	2	anemia hemolytic
+anemia, iron-deficiency	Anemia, Iron-Deficiency	1	anemia iron deficiency
+anemia, neonatal	Anemia, Neonatal	1	anemia neonatal
+anemia, sickle cell	Anemia, Sickle Cell	2	anemia sickle cell
+aneuploidy	Aneuploidy	2	aneuploidy
+angelman syndrome	Angelman Syndrome	28	angelman syndrome
+angina pectoris	Angina Pectoris	2	angina pectoris
+angina, unstable	Angina, Unstable	5	angina unstable
+ankle fractures	Ankle Fractures	1	ankle fractures
+ankylosing spondylitis 1	ankylosing spondylitis 1	16	ankylosing spondylitis 1
+anodontia	Anodontia	4	anodontia
+anorectal malformations	Anorectal Malformations	1	anorectal malformations
+anovulation	Anovulation	3	anovulation
+anterior cruciate ligament injuries	Anterior Cruciate Ligament Injuries	1	anterior cruciate ligament injuries
+antisynthetase syndrome	Antisynthetase syndrome	1	antisynthetase syndrome
+anxiety disorders	Anxiety Disorders	16	anxiety disorders
+aortic aneurysm, abdominal	Aortic Aneurysm, Abdominal	20	aortic aneurysm abdominal
+aortic aneurysm, thoracic	Aortic Aneurysm, Thoracic	6	aortic aneurysm thoracic
+aortic atherosclerosis	aortic atherosclerosis	1	aortic atherosclerosis
+aortic diseases	Aortic Diseases	1	aortic diseases
+aortic dissection	Aortic Dissection	4	aortic dissection
+aortic valve disease	Aortic Valve Disease	4	aortic valve disease
+aortic valve insufficiency	Aortic Valve Insufficiency	11	aortic valve insufficiency
+aortic valve stenosis	Aortic Valve Stenosis	3	aortic valve stenosis
+aortopathies	Aortopathies	2	aortopathies
+arbovirus infections	Arbovirus Infections	1	arbovirus infections
+arrhythmias, cardiac	Arrhythmias, Cardiac	3	arrhythmias cardiac
+arrhythmogenic right ventricular dysplasia	Arrhythmogenic Right Ventricular Dysplasia	5	arrhythmogenic right ventricular dysplasia
+arterial occlusive diseases	Arterial Occlusive Diseases	2	arterial occlusive diseases
+arteriosclerosis	Arteriosclerosis	7	arteriosclerosis
+arteriosclerosis obliterans	Arteriosclerosis Obliterans	1	arteriosclerosis obliterans
+arteriosclerotic cardiovascular disease	arteriosclerotic cardiovascular disease	5	arteriosclerotic cardiovascular disease
+arteriovenous fistula	Arteriovenous Fistula	1	arteriovenous fistula
+arteriovenous malformations	Arteriovenous Malformations	1	arteriovenous malformations
+arteritis	Arteritis	5	arteritis
+arthritis	Arthritis	7	arthritis
+arthritis, gouty	Arthritis, Gouty	5	arthritis gouty
+arthritis, juvenile	Arthritis, Juvenile	8	arthritis juvenile
+arthritis, psoriatic	Arthritis, Psoriatic	3	arthritis psoriatic
+arthritis, rheumatoid	Arthritis, Rheumatoid	93	arthritis rheumatoid
+ascites	Ascites	1	ascites
+aspermia	Aspermia	1	aspermia
+asthenozoospermia	Asthenozoospermia	2	asthenozoospermia
+asthma	Asthma	36	asthma
+asthma, allergic	Asthma, Allergic	2	asthma allergic
+asthma, chronic	Asthma, Chronic	1	asthma chronic
+asthma-chronic obstructive pulmonary disease overlap syndrome	Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome	3	asthma chronic obstructive pulmonary disease overlap syndrome
+astrocytoma	Astrocytoma	6	astrocytoma
+asymptomatic infections	Asymptomatic Infections	4	asymptomatic infections
+ataxia neuropathy spectrum	Ataxia Neuropathy Spectrum	8	ataxia neuropathy spectrum
+ataxia telangiectasia	Ataxia Telangiectasia	1	ataxia telangiectasia
+ataxia with vitamin e deficiency	Ataxia with vitamin E deficiency	3	ataxia with vitamin e deficiency
+atherosclerosis	Atherosclerosis	86	atherosclerosis
+atrial fibrillation	Atrial Fibrillation	43	atrial fibrillation
+atrial premature complexes	Atrial Premature Complexes	5	atrial premature complexes
+atrophy	Atrophy	3	atrophy
+attention deficit disorder with hyperactivity	Attention Deficit Disorder with Hyperactivity	5	attention deficit disorder with hyperactivity
+autism spectrum disorder	Autism Spectrum Disorder	4	autism spectrum disorder
+autistic disorder	Autistic Disorder	2	autistic disorder
+autoimmune diseases	Autoimmune Diseases	8	autoimmune diseases
+autoimmune lymphoproliferative syndrome	Autoimmune Lymphoproliferative Syndrome	1	autoimmune lymphoproliferative syndrome
+autoimmune pancreatitis	Autoimmune Pancreatitis	1	autoimmune pancreatitis
+autoimmune uveitis	autoimmune uveitis	1	autoimmune uveitis
+autosomal recessive congenital bilateral absence of vas deferens	autosomal recessive congenital bilateral absence of vas deferens	1	autosomal recessive congenital bilateral absence of vas deferens
+autosomal recessive osteopetrosis 7	autosomal recessive osteopetrosis 7	1	autosomal recessive osteopetrosis 7
+avitaminosis	Avitaminosis	2	avitaminosis
+azoospermia	Azoospermia	6	azoospermia
+azoospermia, nonobstructive	Azoospermia, Nonobstructive	4	azoospermia nonobstructive
+barrett esophagus	Barrett Esophagus	2	barrett esophagus
+basal ganglia hemorrhage	Basal Ganglia Hemorrhage	1	basal ganglia hemorrhage
+behcet syndrome	Behcet Syndrome	12	behcet syndrome
+benign paroxysmal positional vertigo	Benign Paroxysmal Positional Vertigo	1	benign paroxysmal positional vertigo
+beta-thalassemia	beta-Thalassemia	3	beta thalassemia
+bicuspid aortic valve disease	Bicuspid Aortic Valve Disease	2	bicuspid aortic valve disease
+bile duct neoplasms	Bile Duct Neoplasms	1	bile duct neoplasms
+biliary atresia	Biliary Atresia	4	biliary atresia
+biliary tract neoplasms	Biliary Tract Neoplasms	5	biliary tract neoplasms
+biotinidase deficiency	Biotinidase Deficiency	1	biotinidase deficiency
+bipolar disorder	Bipolar Disorder	12	bipolar disorder
+birt-hogg-dube syndrome	Birt-Hogg-Dube Syndrome	2	birt hogg dube syndrome
+birth weight	Birth Weight	1	birth weight
+bisphosphonate-associated osteonecrosis of the jaw	Bisphosphonate-Associated Osteonecrosis of the Jaw	3	bisphosphonate associated osteonecrosis of the jaw
+bladder urothelial carcinoma	bladder urothelial carcinoma	2	bladder urothelial carcinoma
+blast crisis	Blast Crisis	1	blast crisis
+blind loop syndrome	Blind Loop Syndrome	2	blind loop syndrome
+blood coagulation disorders, traumatic, acute	Blood Coagulation Disorders, Traumatic, Acute	1	blood coagulation disorders traumatic acute
+blood group incompatibility	Blood Group Incompatibility	1	blood group incompatibility
+bloom syndrome	Bloom Syndrome	1	bloom syndrome
+body integrity identity disorder	Body Integrity Identity Disorder	2	body integrity identity disorder
+bone diseases	Bone Diseases	12	bone diseases
+bone diseases, metabolic	Bone Diseases, Metabolic	3	bone diseases metabolic
+bone neoplasms	Bone Neoplasms	3	bone neoplasms
+bone regeneration	Bone Regeneration	1	bone regeneration
+borna disease	Borna Disease	2	borna disease
+brachial plexus avulsion	Brachial Plexus Avulsion	1	brachial plexus avulsion
+bradycardia	Bradycardia	2	bradycardia
+brain injuries	Brain Injuries	23	brain injuries
+brain injuries, traumatic	Brain Injuries, Traumatic	17	brain injuries traumatic
+brain ischemia	Brain Ischemia	30	brain ischemia
+brain neoplasms	Brain Neoplasms	8	brain neoplasms
+breast neoplasms	Breast Neoplasms	324	breast neoplasms
+bronchiolitis obliterans	Bronchiolitis Obliterans	3	bronchiolitis obliterans
+bronchopulmonary dysplasia	Bronchopulmonary Dysplasia	12	bronchopulmonary dysplasia
+brucellosis	Brucellosis	2	brucellosis
+brucellosis, bovine	Brucellosis, Bovine	1	brucellosis bovine
+budd-chiari syndrome	Budd-Chiari Syndrome	1	budd chiari syndrome
+bulimia nervosa	Bulimia Nervosa	4	bulimia nervosa
+burkitt lymphoma	Burkitt Lymphoma	6	burkitt lymphoma
+burns	Burns	7	burns
+buschke-ollendorff syndrome	Buschke-Ollendorff syndrome	1	buschke ollendorff syndrome
+cachexia	Cachexia	1	cachexia
+calcification of joints and arteries	Calcification of Joints and Arteries	1	calcification of joints and arteries
+calcinosis	Calcinosis	1	calcinosis
+campomelia cumming type	Campomelia Cumming type	1	campomelia cumming type
+camptocormia	Camptocormia	1	camptocormia
+canavan disease	Canavan Disease	1	canavan disease
+cancer pain	Cancer Pain	10	cancer pain
+cancer-associated cachexia	Cancer-Associated Cachexia	3	cancer associated cachexia
+carcinogenesis	Carcinogenesis	1	carcinogenesis
+carcinoma	Carcinoma	2	carcinoma
+carcinoma, basal cell	Carcinoma, Basal Cell	2	carcinoma basal cell
+carcinoma, cutaneous, squamous cell	Carcinoma, Cutaneous, Squamous Cell	1	carcinoma cutaneous squamous cell
+carcinoma, ductal, breast	Carcinoma, Ductal, Breast	5	carcinoma ductal breast
+carcinoma, endometrioid	Carcinoma, Endometrioid	36	carcinoma endometrioid
+carcinoma, hepatocellular	Carcinoma, Hepatocellular	345	carcinoma hepatocellular
+carcinoma, lewis lung	Carcinoma, Lewis Lung	1	carcinoma lewis lung
+carcinoma, merkel cell	Carcinoma, Merkel Cell	3	carcinoma merkel cell
+carcinoma, mucoepidermoid	Carcinoma, Mucoepidermoid	2	carcinoma mucoepidermoid
+carcinoma, non-small-cell lung	Carcinoma, Non-Small-Cell Lung	345	carcinoma non small cell lung
+carcinoma, ovarian epithelial	Carcinoma, Ovarian Epithelial	52	carcinoma ovarian epithelial
+carcinoma, pancreatic ductal	Carcinoma, Pancreatic Ductal	51	carcinoma pancreatic ductal
+carcinoma, renal cell	Carcinoma, Renal Cell	115	carcinoma renal cell
+carcinoma, small cell	Carcinoma, Small Cell	5	carcinoma small cell
+carcinoma, squamous cell	Carcinoma, Squamous Cell	2	carcinoma squamous cell
+carcinoma, squamous cell, cutaneous	Carcinoma, Squamous Cell, Cutaneous	20	carcinoma squamous cell cutaneous
+carcinoma, squamous cell, skin	Carcinoma, Squamous Cell, Skin	2	carcinoma squamous cell skin
+carcinoma, transitional cell	Carcinoma, Transitional Cell	2	carcinoma transitional cell
+carcinosarcoma	Carcinosarcoma	5	carcinosarcoma
+cardiac allograft vasculopathy	Cardiac Allograft Vasculopathy	1	cardiac allograft vasculopathy
+cardio-renal syndrome	Cardio-Renal Syndrome	1	cardio renal syndrome
+cardiomegaly	Cardiomegaly	45	cardiomegaly
+cardiomyopathies	Cardiomyopathies	48	cardiomyopathies
+cardiomyopathies, uremic	Cardiomyopathies, Uremic	1	cardiomyopathies uremic
+cardiomyopathy dilated with woolly hair and keratoderma	Cardiomyopathy dilated with woolly hair and keratoderma	1	cardiomyopathy dilated with woolly hair and keratoderma
+cardiomyopathy, dilated	Cardiomyopathy, Dilated	6	cardiomyopathy dilated
+cardiomyopathy, dilated, with left ventricular noncompaction	Cardiomyopathy, Dilated, with Left Ventricular Noncompaction	3	cardiomyopathy dilated with left ventricular noncompaction
+cardiomyopathy, hypertrophic	Cardiomyopathy, Hypertrophic	12	cardiomyopathy hypertrophic
+cardiomyopathy, hypertrophic, familial	Cardiomyopathy, Hypertrophic, Familial	1	cardiomyopathy hypertrophic familial
+cardiotoxicity	Cardiotoxicity	21	cardiotoxicity
+cardiovascular complications	Cardiovascular Complications	1	cardiovascular complications
+cardiovascular diseases	Cardiovascular Diseases	32	cardiovascular diseases
+carotid artery diseases	Carotid Artery Diseases	6	carotid artery diseases
+carotid artery injuries	Carotid Artery Injuries	1	carotid artery injuries
+carotid stenosis	Carotid Stenosis	20	carotid stenosis
+cartilage degradation	Cartilage Degradation	2	cartilage degradation
+cartilage diseases	Cartilage Diseases	12	cartilage diseases
+cataract	Cataract	7	cataract
+cataract, age-related	Cataract, Age-Related	1	cataract age related
+cataract, congenital zonular, with sutural opacities	Cataract, Congenital Zonular, with Sutural Opacities	1	cataract congenital zonular with sutural opacities
+cataract, posterior polar, 3	Cataract, posterior polar, 3	3	cataract posterior polar 3
+celiac disease	Celiac Disease	6	celiac disease
+central nervous system diseases	Central Nervous System Diseases	1	central nervous system diseases
+central nervous system neoplasms	Central Nervous System Neoplasms	4	central nervous system neoplasms
+central nervous system, non-infectious	Central Nervous System, Non-Infectious	12	central nervous system non infectious
+cerebral hemorrhage	Cerebral Hemorrhage	18	cerebral hemorrhage
+cerebral hemorrhage, age-related	Cerebral Hemorrhage, Age-Related	2	cerebral hemorrhage age related
+cerebral hemorrhage, spontaneous	Cerebral Hemorrhage, Spontaneous	1	cerebral hemorrhage spontaneous
+cerebral hemorrhage, traumatic	Cerebral Hemorrhage, Traumatic	1	cerebral hemorrhage traumatic
+cerebral infarction	Cerebral Infarction	9	cerebral infarction
+cerebral infarction, acute	Cerebral Infarction, Acute	12	cerebral infarction acute
+cerebral infarction, lacunar	Cerebral Infarction, Lacunar	1	cerebral infarction lacunar
+cerebral palsy	Cerebral Palsy	2	cerebral palsy
+cerebral small vessel diseases	Cerebral Small Vessel Diseases	3	cerebral small vessel diseases
+cerebrovascular disorders	Cerebrovascular Disorders	19	cerebrovascular disorders
+cerebrovascular occlusive diseases	Cerebrovascular Occlusive Diseases	1	cerebrovascular occlusive diseases
+ceroid lipofuscinosis, neuronal 5	Ceroid lipofuscinosis, neuronal 5	2	ceroid lipofuscinosis neuronal 5
+cervical cancer, hpv infected	Cervical Cancer, Hpv Infected	1	cervical cancer hpv infected
+cervical intraepithelial neoplasia	Cervical Intraepithelial Neoplasia	10	cervical intraepithelial neoplasia
+cervical squamous cell carcinoma	cervical squamous cell carcinoma	4	cervical squamous cell carcinoma
+cestode infections	Cestode Infections	1	cestode infections
+chagas cardiomyopathy	Chagas Cardiomyopathy	5	chagas cardiomyopathy
+charcot-marie-tooth disease	Charcot-Marie-Tooth Disease	1	charcot marie tooth disease
+charge syndrome	CHARGE Syndrome	1	charge syndrome
+chemical and drug induced liver injury	Chemical and Drug Induced Liver Injury	9	chemical and drug induced liver injury
+chilblain lupus	Chilblain lupus	2	chilblain lupus
+child development disorders, pervasive	Child Development Disorders, Pervasive	2	child development disorders pervasive
+chills	Chills	1	chills
+cholangiocarcinoma	Cholangiocarcinoma	53	cholangiocarcinoma
+cholangitis, biliary, primary	Cholangitis, Biliary, Primary	2	cholangitis biliary primary
+cholangitis, sclerosing, primary	Cholangitis, Sclerosing, Primary	2	cholangitis sclerosing primary
+cholecystitis	Cholecystitis	2	cholecystitis
+cholecystolithiasis	Cholecystolithiasis	1	cholecystolithiasis
+choledocholithiasis	Choledocholithiasis	2	choledocholithiasis
+cholestasis	Cholestasis	2	cholestasis
+cholesteatoma	Cholesteatoma	1	cholesteatoma
+cholesteatoma, middle ear	Cholesteatoma, Middle Ear	2	cholesteatoma middle ear
+chondrocalcinosis	Chondrocalcinosis	4	chondrocalcinosis
+chondrosarcoma	Chondrosarcoma	4	chondrosarcoma
+chordoma	Chordoma	10	chordoma
+chorea	Chorea	2	chorea
+choriocarcinoma	Choriocarcinoma	5	choriocarcinoma
+choroidal neovascularization	Choroidal Neovascularization	14	choroidal neovascularization
+chromosome 5q deletion syndrome	Chromosome 5q Deletion Syndrome	1	chromosome 5q deletion syndrome
+chromosome aberrations	Chromosome Aberrations	1	chromosome aberrations
+chromosome duplication	Chromosome Duplication	1	chromosome duplication
+chronic disease	Chronic Disease	1	chronic disease
+chronic gastritis	Chronic Gastritis	1	chronic gastritis
+chronic kidney disease	Chronic Kidney Disease	2	chronic kidney disease
+chronic pain	Chronic Pain	2	chronic pain
+chronic pelvic pain syndrome	Chronic Pelvic Pain Syndrome	3	chronic pelvic pain syndrome
+chronic periodontitis	Chronic Periodontitis	11	chronic periodontitis
+chronic recurrent multifocal osteomyelitis	Chronic recurrent multifocal osteomyelitis	1	chronic recurrent multifocal osteomyelitis
+chronic rhinosinusitis with nasal polyps	Chronic Rhinosinusitis With Nasal Polyps	2	chronic rhinosinusitis with nasal polyps
+chronic urticaria	Chronic Urticaria	1	chronic urticaria
+cicatrix	Cicatrix	4	cicatrix
+cicatrix, hypertrophic	Cicatrix, Hypertrophic	12	cicatrix hypertrophic
+ciliary motility disorders	Ciliary Motility Disorders	1	ciliary motility disorders
+citrullinemia	Citrullinemia	1	citrullinemia
+cleft lip	Cleft Lip	1	cleft lip
+cleft palate	Cleft Palate	3	cleft palate
+cleft palate, non-syndromic	Cleft Palate, Non-Syndromic	2	cleft palate non syndromic
+cocaine-related disorders	Cocaine-Related Disorders	1	cocaine related disorders
+cognition disorders	Cognition Disorders	14	cognition disorders
+cognitive dysfunction	Cognitive Dysfunction	8	cognitive dysfunction
+colitis	Colitis	18	colitis
+colitis-associated neoplasms	Colitis-Associated Neoplasms	3	colitis associated neoplasms
+collagen diseases	Collagen Diseases	2	collagen diseases
+colon adenocarcinoma	Colon Adenocarcinoma	4	colon adenocarcinoma
+colonic diseases	Colonic Diseases	1	colonic diseases
+colonic neoplasms	Colonic Neoplasms	112	colonic neoplasms
+colorectal adenocarcinoma	Colorectal Adenocarcinoma	4	colorectal adenocarcinoma
+colorectal neoplasms	Colorectal Neoplasms	316	colorectal neoplasms
+common variable immunodeficiency 2	common variable immunodeficiency 2	1	common variable immunodeficiency 2
+community-acquired pneumonia	Community-Acquired Pneumonia	4	community acquired pneumonia
+complement component 7 deficiency	Complement Component 7 Deficiency	1	complement component 7 deficiency
+complex regional pain syndromes	Complex Regional Pain Syndromes	2	complex regional pain syndromes
+concussion, sports-related	Concussion, Sports-Related	2	concussion sports related
+condylar hyperplasia	Condylar Hyperplasia	1	condylar hyperplasia
+cone-rod dystrophy 6	cone-rod dystrophy 6	1	cone rod dystrophy 6
+congenital amegakaryocytic thrombocytopenia	Congenital amegakaryocytic thrombocytopenia	1	congenital amegakaryocytic thrombocytopenia
+congenital central hypoventilation syndrome	Congenital central hypoventilation syndrome	1	congenital central hypoventilation syndrome
+congenital fibrosarcoma	congenital fibrosarcoma	1	congenital fibrosarcoma
+congenital hypothyroidism	Congenital Hypothyroidism	1	congenital hypothyroidism
+congenital myopathy 1a	congenital myopathy 1A	1	congenital myopathy 1a
+conjunctival diseases	Conjunctival Diseases	1	conjunctival diseases
+conjunctivitis, allergic	Conjunctivitis, Allergic	1	conjunctivitis allergic
+conotruncal cardiac defects	Conotruncal cardiac defects	2	conotruncal cardiac defects
+constipation	Constipation	2	constipation
+constriction, pathologic	Constriction, Pathologic	2	constriction pathologic
+corneal dystrophy, epithelial basement membrane	Corneal dystrophy, epithelial basement membrane	5	corneal dystrophy epithelial basement membrane
+corneal dystrophy, juvenile epithelial of meesmann	Corneal Dystrophy, Juvenile Epithelial of Meesmann	1	corneal dystrophy juvenile epithelial of meesmann
+corneal injuries	Corneal Injuries	1	corneal injuries
+coronary artery calcification	Coronary Artery Calcification	1	coronary artery calcification
+coronary artery disease	Coronary Artery Disease	74	coronary artery disease
+coronary disease	Coronary Disease	29	coronary disease
+coronary occlusion	Coronary Occlusion	7	coronary occlusion
+coronary restenosis	Coronary Restenosis	1	coronary restenosis
+coronary stenosis	Coronary Stenosis	8	coronary stenosis
+costello syndrome	Costello Syndrome	2	costello syndrome
+cough variant asthma	cough variant asthma	1	cough variant asthma
+covid-19	COVID-19	30	covid 19
+cranial nerve injuries	Cranial Nerve Injuries	1	cranial nerve injuries
+craniocerebral trauma	Craniocerebral Trauma	2	craniocerebral trauma
+craniofacial abnormalities	Craniofacial Abnormalities	1	craniofacial abnormalities
+craniosynostosis radial aplasia syndrome	Craniosynostosis radial aplasia syndrome	2	craniosynostosis radial aplasia syndrome
+crest syndrome	CREST Syndrome	1	crest syndrome
+crisponi syndrome	Crisponi syndrome	1	crisponi syndrome
+critical illness	Critical Illness	7	critical illness
+crohn disease	Crohn Disease	9	crohn disease
+cryopyrin-associated periodic syndromes	Cryopyrin-Associated Periodic Syndromes	1	cryopyrin associated periodic syndromes
+cumulative trauma disorders	Cumulative Trauma Disorders	8	cumulative trauma disorders
+cylindromatosis	Cylindromatosis	1	cylindromatosis
+cyprinid herpesvirus 3	Cyprinid Herpesvirus 3	1	cyprinid herpesvirus 3
+cystadenocarcinoma, serous, endometrial	Cystadenocarcinoma, Serous, Endometrial	1	cystadenocarcinoma serous endometrial
+cystadenocarcinoma, serous, ovarian	Cystadenocarcinoma, Serous, Ovarian	2	cystadenocarcinoma serous ovarian
+cystic fibrosis	Cystic Fibrosis	11	cystic fibrosis
+cystitis, interstitial	Cystitis, Interstitial	1	cystitis interstitial
+cysts	Cysts	2	cysts
+cytomegalovirus infections	Cytomegalovirus Infections	2	cytomegalovirus infections
+de lange syndrome	De Lange Syndrome	1	de lange syndrome
+death	Death	5	death
+death, sudden, cardiac	Death, Sudden, Cardiac	2	death sudden cardiac
+deficiency diseases	Deficiency Diseases	2	deficiency diseases
+dehydration	Dehydration	9	dehydration
+delayed graft function	Delayed Graft Function	1	delayed graft function
+dementia, vascular	Dementia, Vascular	5	dementia vascular
+dengue	Dengue	5	dengue
+dentin dysplasia	Dentin Dysplasia	1	dentin dysplasia
+depression	Depression	34	depression
+depression, post stroke	Depression, Post Stroke	2	depression post stroke
+depression, postpartum	Depression, Postpartum	2	depression postpartum
+depressive disorder	Depressive Disorder	3	depressive disorder
+depressive disorder, major	Depressive Disorder, Major	30	depressive disorder major
+dermatitis	Dermatitis	1	dermatitis
+dermatitis herpetiformis	Dermatitis Herpetiformis	1	dermatitis herpetiformis
+dermatitis, atopic	Dermatitis, Atopic	13	dermatitis atopic
+dermatitis, atopic, 1	Dermatitis, Atopic, 1	1	dermatitis atopic 1
+dermatomyositis	Dermatomyositis	7	dermatomyositis
+developmental disabilities	Developmental Disabilities	9	developmental disabilities
+diabetes complications	Diabetes Complications	5	diabetes complications
+diabetes mellitus	Diabetes Mellitus	65	diabetes mellitus
+diabetes mellitus, type 1	Diabetes Mellitus, Type 1	19	diabetes mellitus type 1
+diabetes mellitus, type 2	Diabetes Mellitus, Type 2	122	diabetes mellitus type 2
+diabetes, gestational	Diabetes, Gestational	55	diabetes gestational
+diabetic angiopathies	Diabetic Angiopathies	6	diabetic angiopathies
+diabetic cardiomyopathies	Diabetic Cardiomyopathies	7	diabetic cardiomyopathies
+diabetic foot	Diabetic Foot	13	diabetic foot
+diabetic nephropathies	Diabetic Nephropathies	81	diabetic nephropathies
+diabetic neuropathies	Diabetic Neuropathies	13	diabetic neuropathies
+diabetic retinopathy	Diabetic Retinopathy	48	diabetic retinopathy
+diabetic wound	Diabetic Wound	1	diabetic wound
+diarrhea 5, with tufting enteropathy, congenital	Diarrhea 5, With Tufting Enteropathy, Congenital	3	diarrhea 5 with tufting enteropathy congenital
+differentiated thyroid gland carcinoma	differentiated thyroid gland carcinoma	2	differentiated thyroid gland carcinoma
+digestive system neoplasms	Digestive System Neoplasms	1	digestive system neoplasms
+dihydropyrimidine dehydrogenase deficiency	Dihydropyrimidine Dehydrogenase Deficiency	2	dihydropyrimidine dehydrogenase deficiency
+dilated cardiomyopathy 1ff	dilated cardiomyopathy 1FF	1	dilated cardiomyopathy 1ff
+disease	Disease	1	disease
+disorders of sex development	Disorders of Sex Development	1	disorders of sex development
+distal arthrogryposis type 2b	Distal arthrogryposis type 2B	3	distal arthrogryposis type 2b
+dmd-associated dilated cardiomyopathy	Dmd-Associated Dilated Cardiomyopathy	5	dmd associated dilated cardiomyopathy
+dna repair-deficiency disorders	DNA Repair-Deficiency Disorders	1	dna repair deficiency disorders
+down syndrome	Down Syndrome	20	down syndrome
+drug hypersensitivity	Drug Hypersensitivity	1	drug hypersensitivity
+drug resistant epilepsy	Drug Resistant Epilepsy	1	drug resistant epilepsy
+drug-induced kidney injury	Drug-Induced Kidney Injury	3	drug induced kidney injury
+drug-related side effects and adverse reactions	Drug-Related Side Effects and Adverse Reactions	2	drug related side effects and adverse reactions
+dry eye syndromes	Dry Eye Syndromes	2	dry eye syndromes
+duane retraction syndrome	Duane Retraction Syndrome	8	duane retraction syndrome
+dwarfism	Dwarfism	1	dwarfism
+dwarfism, pituitary	Dwarfism, Pituitary	3	dwarfism pituitary
+dysautonomia, familial	Dysautonomia, Familial	3	dysautonomia familial
+dyslipidemias	Dyslipidemias	3	dyslipidemias
+dyspepsia	Dyspepsia	1	dyspepsia
+ear diseases	Ear Diseases	8	ear diseases
+early-stage malignant melanoma	Early-Stage Malignant Melanoma	6	early stage malignant melanoma
+echinococcosis	Echinococcosis	1	echinococcosis
+eclampsia	Eclampsia	1	eclampsia
+edema	Edema	1	edema
+ehlers-danlos syndrome	Ehlers-Danlos Syndrome	1	ehlers danlos syndrome
+electrocardiography, ambulatory	Electrocardiography, Ambulatory	1	electrocardiography ambulatory
+elliptocytosis 2	Elliptocytosis 2	3	elliptocytosis 2
+embryo loss	Embryo Loss	1	embryo loss
+emergence delirium	Emergence Delirium	1	emergence delirium
+emphysema	Emphysema	1	emphysema
+encephalitis, japanese	Encephalitis, Japanese	7	encephalitis japanese
+encephalitis, viral	Encephalitis, Viral	1	encephalitis viral
+encephalomyelitis, autoimmune, experimental	Encephalomyelitis, Autoimmune, Experimental	7	encephalomyelitis autoimmune experimental
+encephalomyelitis, enzootic porcine	Encephalomyelitis, Enzootic Porcine	2	encephalomyelitis enzootic porcine
+encephalomyelitis, western equine	Encephalomyelitis, Western Equine	1	encephalomyelitis western equine
+endocrine system diseases	Endocrine System Diseases	1	endocrine system diseases
+endodermal sinus tumor	Endodermal Sinus Tumor	1	endodermal sinus tumor
+endometrial fibrosis	Endometrial Fibrosis	1	endometrial fibrosis
+endometrial hyperplasia	Endometrial Hyperplasia	4	endometrial hyperplasia
+endometrial neoplasms	Endometrial Neoplasms	48	endometrial neoplasms
+endometriosis	Endometriosis	42	endometriosis
+endometritis	Endometritis	8	endometritis
+endomyocardial fibrosis	Endomyocardial Fibrosis	2	endomyocardial fibrosis
+endophthalmitis	Endophthalmitis	1	endophthalmitis
+endothelial barrier dysfunction	Endothelial Barrier Dysfunction	1	endothelial barrier dysfunction
+endothelial dysfunction	Endothelial Dysfunction	2	endothelial dysfunction
+endotoxemia	Endotoxemia	2	endotoxemia
+enterocolitis, necrotizing	Enterocolitis, Necrotizing	7	enterocolitis necrotizing
+enterovirus a infection	Enterovirus A Infection	1	enterovirus a infection
+enterovirus b, human	Enterovirus B, Human	2	enterovirus b human
+enterovirus infections	Enterovirus Infections	8	enterovirus infections
+environmental illness	Environmental Illness	1	environmental illness
+eosinophilic enteropathy	Eosinophilic enteropathy	4	eosinophilic enteropathy
+ependymoma	Ependymoma	6	ependymoma
+ephemeral fever	Ephemeral Fever	1	ephemeral fever
+epidermodysplasia verruciformis	Epidermodysplasia Verruciformis	5	epidermodysplasia verruciformis
+epidural abscess	Epidural Abscess	1	epidural abscess
+epilepsies, partial	Epilepsies, Partial	2	epilepsies partial
+epilepsy	Epilepsy	12	epilepsy
+epilepsy, generalized	Epilepsy, Generalized	1	epilepsy generalized
+epilepsy, temporal lobe	Epilepsy, Temporal Lobe	8	epilepsy temporal lobe
+epstein-barr virus infections	Epstein-Barr Virus Infections	12	epstein barr virus infections
+erdheim-chester disease	Erdheim-Chester Disease	4	erdheim chester disease
+erectile dysfunction	Erectile Dysfunction	2	erectile dysfunction
+esophageal neoplasms	Esophageal Neoplasms	48	esophageal neoplasms
+esophageal squamous cell carcinoma	Esophageal Squamous Cell Carcinoma	137	esophageal squamous cell carcinoma
+esophagus adenocarcinoma	esophagus adenocarcinoma	6	esophagus adenocarcinoma
+essential hypertension	Essential Hypertension	14	essential hypertension
+exanthema	Exanthema	3	exanthema
+exostoses	Exostoses	1	exostoses
+fabry disease	Fabry Disease	3	fabry disease
+facioscapulohumeral muscular dystrophy 1	facioscapulohumeral muscular dystrophy 1	1	facioscapulohumeral muscular dystrophy 1
+familial febrile seizures 1	familial febrile seizures 1	7	familial febrile seizures 1
+familial mediterranean fever	Familial Mediterranean Fever	1	familial mediterranean fever
+familial multiple nevi flammei	familial multiple nevi flammei	1	familial multiple nevi flammei
+familial primary pulmonary hypertension	Familial Primary Pulmonary Hypertension	5	familial primary pulmonary hypertension
+familial temporal lobe epilepsy 3	familial temporal lobe epilepsy 3	8	familial temporal lobe epilepsy 3
+fatty liver	Fatty Liver	11	fatty liver
+fatty liver, alcoholic	Fatty Liver, Alcoholic	1	fatty liver alcoholic
+femoral neck fractures	Femoral Neck Fractures	2	femoral neck fractures
+femur head necrosis	Femur Head Necrosis	30	femur head necrosis
+fetal alcohol spectrum disorders	Fetal Alcohol Spectrum Disorders	5	fetal alcohol spectrum disorders
+fetal growth retardation	Fetal Growth Retardation	14	fetal growth retardation
+fetal hypoxia	Fetal Hypoxia	1	fetal hypoxia
+fetal macrosomia	Fetal Macrosomia	4	fetal macrosomia
+fetal membranes, premature rupture	Fetal Membranes, Premature Rupture	1	fetal membranes premature rupture
+fever	Fever	1	fever
+fg syndrome	FG syndrome	2	fg syndrome
+fibrolamellar hepatocellular carcinoma	Fibrolamellar hepatocellular carcinoma	1	fibrolamellar hepatocellular carcinoma
+fibromyalgia	Fibromyalgia	4	fibromyalgia
+fibrosarcoma	Fibrosarcoma	1	fibrosarcoma
+fibrosis	Fibrosis	22	fibrosis
+fibrosis, airway	Fibrosis, Airway	1	fibrosis airway
+fibrosis, atrial	Fibrosis, Atrial	6	fibrosis atrial
+fibrosis, pancreas	Fibrosis, Pancreas	1	fibrosis pancreas
+fibrosis, renal	Fibrosis, Renal	31	fibrosis renal
+fibrosis, skin	Fibrosis, Skin	2	fibrosis skin
+fibrosis, vascular	Fibrosis, Vascular	1	fibrosis vascular
+fibrous dysplasia of bone	Fibrous Dysplasia of Bone	1	fibrous dysplasia of bone
+fibrous dysplasia, polyostotic	Fibrous Dysplasia, Polyostotic	3	fibrous dysplasia polyostotic
+fissure in ano	Fissure in Ano	1	fissure in ano
+fluoride poisoning	Fluoride Poisoning	1	fluoride poisoning
+fluorosis, dental	Fluorosis, Dental	2	fluorosis dental
+foot ulcer	Foot Ulcer	2	foot ulcer
+foot-and-mouth disease	Foot-and-Mouth Disease	1	foot and mouth disease
+fractures, bone	Fractures, Bone	18	fractures bone
+fragile x syndrome	Fragile X Syndrome	2	fragile x syndrome
+frailty	Frailty	4	frailty
+freeman-sheldon syndrome	Freeman-Sheldon syndrome	1	freeman sheldon syndrome
+friedreich ataxia	Friedreich Ataxia	1	friedreich ataxia
+frontonasal dysplasia	Frontonasal dysplasia	1	frontonasal dysplasia
+frontotemporal lobar degeneration	Frontotemporal Lobar Degeneration	1	frontotemporal lobar degeneration
+fusariosis	Fusariosis	1	fusariosis
+fusarium solani-induced keratitis	Fusarium Solani-Induced Keratitis	1	fusarium solani induced keratitis
+gallbladder diseases	Gallbladder Diseases	1	gallbladder diseases
+gallbladder neoplasms	Gallbladder Neoplasms	34	gallbladder neoplasms
+gastric adenocarcinoma	gastric adenocarcinoma	4	gastric adenocarcinoma
+gastric and colon cancer	Gastric And Colon Cancer	1	gastric and colon cancer
+gastric cancer	Gastric Cancer	1	gastric cancer
+gastric cancer, early	Gastric Cancer, Early	1	gastric cancer early
+gastric cancer, metachronous	Gastric Cancer, Metachronous	1	gastric cancer metachronous
+gastric cardia adenocarcinoma	gastric cardia adenocarcinoma	3	gastric cardia adenocarcinoma
+gastrinoma	Gastrinoma	2	gastrinoma
+gastritis	Gastritis	4	gastritis
+gastritis, atrophic	Gastritis, Atrophic	4	gastritis atrophic
+gastroenteritis, transmissible, of swine	Gastroenteritis, Transmissible, of Swine	2	gastroenteritis transmissible of swine
+gastrointestinal diseases	Gastrointestinal Diseases	1	gastrointestinal diseases
+gastrointestinal hemorrhage	Gastrointestinal Hemorrhage	1	gastrointestinal hemorrhage
+gastrointestinal neoplasms	Gastrointestinal Neoplasms	13	gastrointestinal neoplasms
+gastrointestinal stromal tumors	Gastrointestinal Stromal Tumors	7	gastrointestinal stromal tumors
+genetic diseases, inborn	Genetic Diseases, Inborn	4	genetic diseases inborn
+genital neoplasms, female	Genital Neoplasms, Female	3	genital neoplasms female
+gerodermia osteodysplastica	Gerodermia osteodysplastica	1	gerodermia osteodysplastica
+giant cell arteritis	Giant Cell Arteritis	1	giant cell arteritis
+gigantomastia	Gigantomastia	1	gigantomastia
+gingival overgrowth	Gingival Overgrowth	1	gingival overgrowth
+glaucoma	Glaucoma	19	glaucoma
+glaucoma, open-angle	Glaucoma, Open-Angle	3	glaucoma open angle
+glioblastoma	Glioblastoma	121	glioblastoma
+glioma	Glioma	198	glioma
+glomerulonephritis, iga	Glomerulonephritis, IGA	15	glomerulonephritis iga
+glomerulonephritis, membranoproliferative	Glomerulonephritis, Membranoproliferative	1	glomerulonephritis membranoproliferative
+glomerulonephritis, membranous	Glomerulonephritis, Membranous	9	glomerulonephritis membranous
+glomus tumor	Glomus Tumor	1	glomus tumor
+glucocorticoid receptor deficiency	Glucocorticoid Receptor Deficiency	1	glucocorticoid receptor deficiency
+glucose intolerance	Glucose Intolerance	1	glucose intolerance
+glucose metabolism disorders	Glucose Metabolism Disorders	1	glucose metabolism disorders
+gluteal muscle contracture	Gluteal Muscle Contracture	1	gluteal muscle contracture
+glycogen storage disease type vi	Glycogen Storage Disease Type VI	2	glycogen storage disease type vi
+gout	Gout	10	gout
+graft occlusion, vascular	Graft Occlusion, Vascular	2	graft occlusion vascular
+graft vs host disease	Graft vs Host Disease	7	graft vs host disease
+granulomatosis with polyangiitis	Granulomatosis with Polyangiitis	3	granulomatosis with polyangiitis
+granulomatous mastitis	Granulomatous Mastitis	5	granulomatous mastitis
+graves disease	Graves Disease	4	graves disease
+graves ophthalmopathy	Graves Ophthalmopathy	6	graves ophthalmopathy
+growth disorders	Growth Disorders	1	growth disorders
+guillain-barre syndrome	Guillain-Barre Syndrome	1	guillain barre syndrome
+gynatresia	Gynatresia	2	gynatresia
+hair diseases	Hair Diseases	2	hair diseases
+hamartoma syndrome, multiple	Hamartoma Syndrome, Multiple	2	hamartoma syndrome multiple
+hand, foot and mouth disease	Hand, Foot and Mouth Disease	1	hand foot and mouth disease
+hashimoto disease	Hashimoto Disease	3	hashimoto disease
+hashimoto thyroiditis	Hashimoto Thyroiditis	1	hashimoto thyroiditis
+head and neck neoplasms	Head and Neck Neoplasms	18	head and neck neoplasms
+hearing loss	Hearing Loss	2	hearing loss
+hearing loss, age-related	Hearing Loss, Age-Related	1	hearing loss age related
+hearing loss, noise-induced	Hearing Loss, Noise-Induced	2	hearing loss noise induced
+hearing loss, sensorineural	Hearing Loss, Sensorineural	3	hearing loss sensorineural
+heart arrest	Heart Arrest	2	heart arrest
+heart diseases	Heart Diseases	8	heart diseases
+heart diseases, congenital	Heart Diseases, Congenital	5	heart diseases congenital
+heart failure	Heart Failure	49	heart failure
+heart failure, acute	Heart Failure, Acute	5	heart failure acute
+heart failure, chronic	Heart Failure, Chronic	10	heart failure chronic
+heart failure, diastolic	Heart Failure, Diastolic	1	heart failure diastolic
+heart failure, systolic	Heart Failure, Systolic	4	heart failure systolic
+heart injuries	Heart Injuries	2	heart injuries
+heart neoplasms	Heart Neoplasms	4	heart neoplasms
+heart septal defects, ventricular	Heart Septal Defects, Ventricular	3	heart septal defects ventricular
+heart valve diseases	Heart Valve Diseases	1	heart valve diseases
+heat stroke	Heat Stroke	2	heat stroke
+helicobacter pylori	Helicobacter pylori	4	helicobacter pylori
+hemangioma	Hemangioma	4	hemangioma
+hemangioma, cavernous	Hemangioma, Cavernous	3	hemangioma cavernous
+hematologic neoplasms	Hematologic Neoplasms	2	hematologic neoplasms
+hematoma, subdural, chronic	Hematoma, Subdural, Chronic	1	hematoma subdural chronic
+hemochromatosis	Hemochromatosis	3	hemochromatosis
+hemoglobinuria, paroxysmal	Hemoglobinuria, Paroxysmal	6	hemoglobinuria paroxysmal
+hemolysis	Hemolysis	5	hemolysis
+hemophilia a	Hemophilia A	5	hemophilia a
+hemoptysis	Hemoptysis	1	hemoptysis
+hemorrhage	Hemorrhage	4	hemorrhage
+hemorrhagic disorders	Hemorrhagic Disorders	1	hemorrhagic disorders
+hemorrhagic fever with renal syndrome	Hemorrhagic Fever With Renal Syndrome	1	hemorrhagic fever with renal syndrome
+hemorrhagic stroke	Hemorrhagic Stroke	6	hemorrhagic stroke
+hepacivirus	Hepacivirus	1	hepacivirus
+hepatitis	Hepatitis	1	hepatitis
+hepatitis b	Hepatitis B	14	hepatitis b
+hepatitis b, chronic	Hepatitis B, Chronic	23	hepatitis b chronic
+hepatitis c	Hepatitis C	33	hepatitis c
+hepatitis c, chronic	Hepatitis C, Chronic	3	hepatitis c chronic
+hepatitis e	Hepatitis E	1	hepatitis e
+hepatitis, alcoholic	Hepatitis, Alcoholic	3	hepatitis alcoholic
+hepatitis, autoimmune	Hepatitis, Autoimmune	3	hepatitis autoimmune
+hepatitis, chronic	Hepatitis, Chronic	3	hepatitis chronic
+hepatoblastoma	Hepatoblastoma	14	hepatoblastoma
+hepatolenticular degeneration	Hepatolenticular Degeneration	3	hepatolenticular degeneration
+hepatopulmonary syndrome	Hepatopulmonary Syndrome	2	hepatopulmonary syndrome
+her2-positive breast cancer	Her2-Positive Breast Cancer	1	her2 positive breast cancer
+hereditary diffuse gastric cancer	hereditary diffuse gastric cancer	10	hereditary diffuse gastric cancer
+hereditary sensory neuropathy type 4	hereditary sensory neuropathy type 4	2	hereditary sensory neuropathy type 4
+heroin dependence	Heroin Dependence	1	heroin dependence
+herpes simplex	Herpes Simplex	8	herpes simplex
+herpesviridae infections	Herpesviridae Infections	1	herpesviridae infections
+hidradenitis suppurativa	Hidradenitis Suppurativa	1	hidradenitis suppurativa
+high grade glioma	high grade glioma	16	high grade glioma
+hip dislocation, congenital	Hip Dislocation, Congenital	1	hip dislocation congenital
+hip fractures	Hip Fractures	3	hip fractures
+hippocampal neuronal injury	Hippocampal Neuronal Injury	1	hippocampal neuronal injury
+hirschsprung disease	Hirschsprung Disease	10	hirschsprung disease
+hirschsprung-associated enterocolitis	Hirschsprung-Associated Enterocolitis	1	hirschsprung associated enterocolitis
+histiocytic sarcoma	Histiocytic Sarcoma	3	histiocytic sarcoma
+hodgkin disease	Hodgkin Disease	7	hodgkin disease
+human herpesvirus 6 encephalitis	Human Herpesvirus 6 encephalitis	2	human herpesvirus 6 encephalitis
+human t-cell leukemia virus type 1 infections	Human T-Cell Leukemia Virus Type 1 Infections	3	human t cell leukemia virus type 1 infections
+humeral fractures	Humeral Fractures	1	humeral fractures
+hyalinosis, systemic	Hyalinosis, Systemic	4	hyalinosis systemic
+hyperaldosteronism	Hyperaldosteronism	1	hyperaldosteronism
+hyperalgesia	Hyperalgesia	3	hyperalgesia
+hypercholesterolemia	Hypercholesterolemia	7	hypercholesterolemia
+hyperekplexia 1	hyperekplexia 1	1	hyperekplexia 1
+hyperglycemia	Hyperglycemia	24	hyperglycemia
+hyperinsulinism	Hyperinsulinism	1	hyperinsulinism
+hyperkalemia	Hyperkalemia	1	hyperkalemia
+hyperlipidemias	Hyperlipidemias	23	hyperlipidemias
+hyperlipoproteinemia type ii	Hyperlipoproteinemia Type II	4	hyperlipoproteinemia type ii
+hyperlipoproteinemia type iii	Hyperlipoproteinemia Type III	1	hyperlipoproteinemia type iii
+hyperoxaluria	Hyperoxaluria	1	hyperoxaluria
+hyperoxaluria, primary	Hyperoxaluria, Primary	1	hyperoxaluria primary
+hyperoxia	Hyperoxia	1	hyperoxia
+hyperoxia-induced lung injury	Hyperoxia-Induced Lung Injury	3	hyperoxia induced lung injury
+hyperparathyroidism 2	Hyperparathyroidism 2	2	hyperparathyroidism 2
+hyperparathyroidism, primary	Hyperparathyroidism, Primary	15	hyperparathyroidism primary
+hypersensitivity	Hypersensitivity	1	hypersensitivity
+hypertension	Hypertension	34	hypertension
+hypertension, portal	Hypertension, Portal	1	hypertension portal
+hypertension, pregnancy-induced	Hypertension, Pregnancy-Induced	8	hypertension pregnancy induced
+hypertension, pulmonary	Hypertension, Pulmonary	27	hypertension pulmonary
+hypertensive retinopathy	Hypertensive Retinopathy	1	hypertensive retinopathy
+hypertriglyceridemia	Hypertriglyceridemia	1	hypertriglyceridemia
+hypertrophy	Hypertrophy	7	hypertrophy
+hypertrophy, left ventricular	Hypertrophy, Left Ventricular	11	hypertrophy left ventricular
+hypertrophy, right ventricular	Hypertrophy, Right Ventricular	1	hypertrophy right ventricular
+hyperuricemia	Hyperuricemia	2	hyperuricemia
+hyperuricemic nephropathy	Hyperuricemic Nephropathy	1	hyperuricemic nephropathy
+hypoadrenocorticism, familial	Hypoadrenocorticism, Familial	1	hypoadrenocorticism familial
+hypocalciuric hypercalcemia, familial, type 1	Hypocalciuric hypercalcemia, familial, type 1	2	hypocalciuric hypercalcemia familial type 1
+hypocapnia	Hypocapnia	1	hypocapnia
+hypoglycemia	Hypoglycemia	1	hypoglycemia
+hypoglycemic encephalopathy	hypoglycemic encephalopathy	1	hypoglycemic encephalopathy
+hypomelanosis of ito	hypomelanosis of Ito	1	hypomelanosis of ito
+hypopharyngeal neoplasms	Hypopharyngeal Neoplasms	2	hypopharyngeal neoplasms
+hypotension	Hypotension	4	hypotension
+hypoxia	Hypoxia	18	hypoxia
+hypoxia-ischemia, brain	Hypoxia-Ischemia, Brain	23	hypoxia ischemia brain
+hypoxia-ischemia, brain, newborn	Hypoxia-Ischemia, Brain, Newborn	3	hypoxia ischemia brain newborn
+ichthyosis, lamellar	Ichthyosis, Lamellar	2	ichthyosis lamellar
+idiopathic condylar resorption	Idiopathic Condylar Resorption	1	idiopathic condylar resorption
+idiopathic scoliosis	idiopathic scoliosis	1	idiopathic scoliosis
+ileal neoplasms	Ileal Neoplasms	1	ileal neoplasms
+image syndrome	IMAGe syndrome	1	image syndrome
+immune system diseases	Immune System Diseases	6	immune system diseases
+immunodeficiency 35	immunodeficiency 35	1	immunodeficiency 35
+immunodeficiency 9	immunodeficiency 9	1	immunodeficiency 9
+immunologic deficiency syndromes	Immunologic Deficiency Syndromes	1	immunologic deficiency syndromes
+implantation failure	Implantation Failure	4	implantation failure
+incisional pain	Incisional Pain	1	incisional pain
+incontinentia pigmenti	Incontinentia Pigmenti	3	incontinentia pigmenti
+infant, low birth weight	Infant, Low Birth Weight	1	infant low birth weight
+infantile convulsions and paroxysmal choreoathetosis, familial	Infantile convulsions and paroxysmal choreoathetosis, familial	1	infantile convulsions and paroxysmal choreoathetosis familial
+infarct-related artery total occlusion	Infarct-Related Artery Total Occlusion	2	infarct related artery total occlusion
+infarction, middle cerebral artery	Infarction, Middle Cerebral Artery	1	infarction middle cerebral artery
+infertility	Infertility	22	infertility
+infertility, female	Infertility, Female	2	infertility female
+infertility, male	Infertility, Male	11	infertility male
+inflammation	Inflammation	77	inflammation
+inflammation, chronic	Inflammation, Chronic	1	inflammation chronic
+inflammatory bowel diseases	Inflammatory Bowel Diseases	38	inflammatory bowel diseases
+inflammatory breast neoplasms	Inflammatory Breast Neoplasms	3	inflammatory breast neoplasms
+influenza, human	Influenza, Human	14	influenza human
+instent restenosis	Instent Restenosis	13	instent restenosis
+insulin resistance	Insulin Resistance	15	insulin resistance
+insulinoma	Insulinoma	1	insulinoma
+intellectual disability	Intellectual Disability	1	intellectual disability
+intermittent claudication	Intermittent Claudication	1	intermittent claudication
+intervertebral disc degeneration	Intervertebral Disc Degeneration	24	intervertebral disc degeneration
+intervertebral disc disease	Intervertebral disc disease	7	intervertebral disc disease
+intestinal atresia	Intestinal Atresia	1	intestinal atresia
+intestinal diseases	Intestinal Diseases	3	intestinal diseases
+intestinal fistula	Intestinal Fistula	1	intestinal fistula
+intracranial aneurysm	Intracranial Aneurysm	13	intracranial aneurysm
+intracranial arterial diseases	Intracranial Arterial Diseases	1	intracranial arterial diseases
+intracranial arteriosclerosis	Intracranial Arteriosclerosis	2	intracranial arteriosclerosis
+intracranial arteriovenous malformations	Intracranial Arteriovenous Malformations	1	intracranial arteriovenous malformations
+intracranial berry aneurysm 3	intracranial berry aneurysm 3	1	intracranial berry aneurysm 3
+intracranial hemorrhages	Intracranial Hemorrhages	1	intracranial hemorrhages
+intrahepatic cholestasis of pregnancy	Intrahepatic Cholestasis of Pregnancy	7	intrahepatic cholestasis of pregnancy
+intrauterine adhesion	Intrauterine Adhesion	1	intrauterine adhesion
+iris diseases	Iris Diseases	2	iris diseases
+iron metabolism disorders	Iron Metabolism Disorders	4	iron metabolism disorders
+irritable bowel syndrome	Irritable Bowel Syndrome	11	irritable bowel syndrome
+ischaemic heart disease	Ischaemic Heart Disease	2	ischaemic heart disease
+ischemia	Ischemia	8	ischemia
+ischemic attack, transient	Ischemic Attack, Transient	1	ischemic attack transient
+ischemic stroke	Ischemic Stroke	88	ischemic stroke
+ischemic stroke, cerebral	Ischemic Stroke, Cerebral	1	ischemic stroke cerebral
+isolated cleft palate	isolated cleft palate	1	isolated cleft palate
+jaundice, obstructive	Jaundice, Obstructive	1	jaundice obstructive
+juvenile gout	Juvenile gout	1	juvenile gout
+keloid	Keloid	18	keloid
+keratitis	Keratitis	1	keratitis
+keratoconjunctivitis sicca	Keratoconjunctivitis Sicca	1	keratoconjunctivitis sicca
+keratosis follicularis spinulosa decalvans, x-linked	Keratosis Follicularis Spinulosa Decalvans, X-Linked	1	keratosis follicularis spinulosa decalvans x linked
+kidney calculi	Kidney Calculi	4	kidney calculi
+kidney cortex necrosis	Kidney Cortex Necrosis	2	kidney cortex necrosis
+kidney diseases	Kidney Diseases	20	kidney diseases
+kidney failure, chronic	Kidney Failure, Chronic	15	kidney failure chronic
+kidney neoplasms	Kidney Neoplasms	1	kidney neoplasms
+kidney tubular necrosis, acute	Kidney Tubular Necrosis, Acute	1	kidney tubular necrosis acute
+lacrimal adenoid cystic carcinoma	Lacrimal Adenoid Cystic Carcinoma	1	lacrimal adenoid cystic carcinoma
+laminopathies	Laminopathies	1	laminopathies
+large artery atherosclerosis	Large Artery Atherosclerosis	10	large artery atherosclerosis
+large-artery atherosclerosis stroke	Large-Artery Atherosclerosis Stroke	2	large artery atherosclerosis stroke
+larva migrans, visceral	Larva Migrans, Visceral	2	larva migrans visceral
+laryngeal neoplasms	Laryngeal Neoplasms	30	laryngeal neoplasms
+laryngeal papilloma	Laryngeal Papilloma	1	laryngeal papilloma
+laryngeal papillomas	Laryngeal Papillomas	1	laryngeal papillomas
+late onset disorders	Late Onset Disorders	1	late onset disorders
+late onset parkinson's disease	late onset Parkinson's disease	7	late onset parkinson s disease
+leg ulcer	Leg Ulcer	1	leg ulcer
+leigh disease	Leigh Disease	4	leigh disease
+leiomyoma	Leiomyoma	3	leiomyoma
+leiomyosarcoma	Leiomyosarcoma	1	leiomyosarcoma
+leiomyosarcoma, uterine	Leiomyosarcoma, Uterine	1	leiomyosarcoma uterine
+leishmaniasis	Leishmaniasis	2	leishmaniasis
+leishmaniasis, diffuse cutaneous	Leishmaniasis, Diffuse Cutaneous	1	leishmaniasis diffuse cutaneous
+leprosy	Leprosy	4	leprosy
+lesch-nyhan syndrome	Lesch-Nyhan Syndrome	2	lesch nyhan syndrome
+leukemia	Leukemia	19	leukemia
+leukemia, acute	Leukemia, Acute	1	leukemia acute
+leukemia, large granular lymphocytic	Leukemia, Large Granular Lymphocytic	1	leukemia large granular lymphocytic
+leukemia, lymphocytic, chronic, b-cell	Leukemia, Lymphocytic, Chronic, B-Cell	18	leukemia lymphocytic chronic b cell
+leukemia, myelogenous, chronic, bcr-abl positive	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	32	leukemia myelogenous chronic bcr abl positive
+leukemia, myeloid	Leukemia, Myeloid	7	leukemia myeloid
+leukemia, myeloid, accelerated phase	Leukemia, Myeloid, Accelerated Phase	1	leukemia myeloid accelerated phase
+leukemia, myeloid, acute	Leukemia, Myeloid, Acute	112	leukemia myeloid acute
+leukemia, myeloid, chronic-phase	Leukemia, Myeloid, Chronic-Phase	1	leukemia myeloid chronic phase
+leukemia, myelomonocytic, acute	Leukemia, Myelomonocytic, Acute	2	leukemia myelomonocytic acute
+leukemia, myelomonocytic, chronic	Leukemia, Myelomonocytic, Chronic	1	leukemia myelomonocytic chronic
+leukemia, prolymphocytic, t-cell	Leukemia, Prolymphocytic, T-Cell	2	leukemia prolymphocytic t cell
+leukemia, promyelocytic, acute	Leukemia, Promyelocytic, Acute	6	leukemia promyelocytic acute
+li-fraumeni syndrome 1	Li-Fraumeni syndrome 1	1	li fraumeni syndrome 1
+lichen planus, oral	Lichen Planus, Oral	5	lichen planus oral
+light fixation seizure syndrome	Light Fixation Seizure Syndrome	1	light fixation seizure syndrome
+limb ischemia	limb ischemia	8	limb ischemia
+lipid metabolism disorders	Lipid Metabolism Disorders	1	lipid metabolism disorders
+lipidoses	Lipidoses	2	lipidoses
+liposarcoma	Liposarcoma	1	liposarcoma
+lissencephaly	Lissencephaly	2	lissencephaly
+liver cirrhosis	Liver Cirrhosis	59	liver cirrhosis
+liver diseases	Liver Diseases	12	liver diseases
+liver failure	Liver Failure	1	liver failure
+liver failure, acute	Liver Failure, Acute	2	liver failure acute
+liver injury	Liver Injury	23	liver injury
+liver neoplasms	Liver Neoplasms	64	liver neoplasms
+low grade glioma	low grade glioma	1	low grade glioma
+low tension glaucoma	Low Tension Glaucoma	1	low tension glaucoma
+lumbar disc herniation	Lumbar Disc Herniation	1	lumbar disc herniation
+lumbar radicular pain	Lumbar Radicular Pain	1	lumbar radicular pain
+lung allograft dysfunction	Lung Allograft Dysfunction	1	lung allograft dysfunction
+lung diseases	Lung Diseases	6	lung diseases
+lung diseases, interstitial	Lung Diseases, Interstitial	9	lung diseases interstitial
+lung hypoplasia	Lung Hypoplasia	1	lung hypoplasia
+lung injury	Lung Injury	13	lung injury
+lung neoplasms	Lung Neoplasms	163	lung neoplasms
+lung non-small cell carcinoma	lung non-small cell carcinoma	1	lung non small cell carcinoma
+lung squamous cell carcinoma	lung squamous cell carcinoma	2	lung squamous cell carcinoma
+lupus erythematosus, systemic	Lupus Erythematosus, Systemic	30	lupus erythematosus systemic
+lupus nephritis	Lupus Nephritis	23	lupus nephritis
+lymph node metastasis	Lymph Node Metastasis	2	lymph node metastasis
+lymphangioleiomyomatosis	Lymphangioleiomyomatosis	1	lymphangioleiomyomatosis
+lymphohistiocytosis, hemophagocytic	Lymphohistiocytosis, Hemophagocytic	1	lymphohistiocytosis hemophagocytic
+lymphoma	Lymphoma	9	lymphoma
+lymphoma, b-cell	Lymphoma, B-Cell	14	lymphoma b cell
+lymphoma, b-cell, diffuse	Lymphoma, B-Cell, Diffuse	1	lymphoma b cell diffuse
+lymphoma, extranodal nk-t-cell	Lymphoma, Extranodal NK-T-Cell	3	lymphoma extranodal nk t cell
+lymphoma, follicular	Lymphoma, Follicular	1	lymphoma follicular
+lymphoma, large b-cell, diffuse	Lymphoma, Large B-Cell, Diffuse	37	lymphoma large b cell diffuse
+lymphoma, mantle-cell	Lymphoma, Mantle-Cell	6	lymphoma mantle cell
+lymphoma, nk-t-cell	Lymphoma, Nk-T-Cell	1	lymphoma nk t cell
+lymphoma, non-hodgkin	Lymphoma, Non-Hodgkin	10	lymphoma non hodgkin
+lymphoma, t-cell, cutaneous	Lymphoma, T-Cell, Cutaneous	3	lymphoma t cell cutaneous
+lymphoma, t-cell, peripheral	Lymphoma, T-Cell, Peripheral	2	lymphoma t cell peripheral
+lymphopenia	Lymphopenia	1	lymphopenia
+lymphoproliferative disorders	Lymphoproliferative Disorders	3	lymphoproliferative disorders
+macrophage activation syndrome	Macrophage Activation Syndrome	1	macrophage activation syndrome
+macular degeneration	Macular Degeneration	20	macular degeneration
+macular edema	Macular Edema	2	macular edema
+malaria	Malaria	10	malaria
+malaria, cerebral	Malaria, Cerebral	2	malaria cerebral
+male germ cell tumor	Male Germ Cell Tumor	2	male germ cell tumor
+malformations of cortical development	Malformations of Cortical Development	4	malformations of cortical development
+malformations of cortical development, group ii	Malformations of Cortical Development, Group II	1	malformations of cortical development group ii
+mandibular diseases	Mandibular Diseases	1	mandibular diseases
+mandibulofacial dysostosis	Mandibulofacial Dysostosis	3	mandibulofacial dysostosis
+marfan syndrome	Marfan Syndrome	1	marfan syndrome
+mast cell tumors	Mast Cell Tumors	1	mast cell tumors
+mastitis	Mastitis	2	mastitis
+mastitis, bovine	Mastitis, Bovine	1	mastitis bovine
+mastocytoma, skin	Mastocytoma, Skin	3	mastocytoma skin
+mastocytosis, cutaneous	Mastocytosis, Cutaneous	2	mastocytosis cutaneous
+maturity-onset diabetes of the young type 3	maturity-onset diabetes of the young type 3	1	maturity onset diabetes of the young type 3
+maxillary fractures	Maxillary Fractures	1	maxillary fractures
+maxillary sinusitis	Maxillary Sinusitis	1	maxillary sinusitis
+medulloblastoma	Medulloblastoma	11	medulloblastoma
+melanoma	Melanoma	104	melanoma
+memory disorders	Memory Disorders	5	memory disorders
+meniere disease	Meniere Disease	1	meniere disease
+meningioma	Meningioma	3	meningioma
+meningitis, bacterial	Meningitis, Bacterial	2	meningitis bacterial
+mental disorders	Mental Disorders	6	mental disorders
+mesothelioma	Mesothelioma	1	mesothelioma
+mesothelioma, malignant	Mesothelioma, Malignant	11	mesothelioma malignant
+metabolic associated fatty liver disease	Metabolic Associated Fatty Liver Disease	11	metabolic associated fatty liver disease
+metabolic diseases	Metabolic Diseases	15	metabolic diseases
+metabolic syndrome	Metabolic Syndrome	8	metabolic syndrome
+metabolic-associated fatty liver disease	Metabolic-Associated Fatty Liver Disease	1	metabolic associated fatty liver disease
+microphthalmos	Microphthalmos	1	microphthalmos
+microscopic polyangiitis	Microscopic Polyangiitis	1	microscopic polyangiitis
+microvascular obstruction	Microvascular Obstruction	2	microvascular obstruction
+microvascular rarefaction	Microvascular Rarefaction	1	microvascular rarefaction
+migraine disorders	Migraine Disorders	7	migraine disorders
+miliaria	Miliaria	4	miliaria
+mite infestations	Mite Infestations	1	mite infestations
+mitochondrial diseases	Mitochondrial Diseases	3	mitochondrial diseases
+mitochondrial dna depletion syndrome 4b	mitochondrial DNA depletion syndrome 4b	4	mitochondrial dna depletion syndrome 4b
+moebius syndrome 1	Moebius syndrome 1	3	moebius syndrome 1
+monoclonal gammopathy of undetermined significance	Monoclonal Gammopathy of Undetermined Significance	1	monoclonal gammopathy of undetermined significance
+mouth neoplasms	Mouth Neoplasms	24	mouth neoplasms
+movement disorders	Movement Disorders	1	movement disorders
+moyamoya disease	Moyamoya Disease	10	moyamoya disease
+mucinous cystadenocarcinoma of pancreas	mucinous cystadenocarcinoma of pancreas	1	mucinous cystadenocarcinoma of pancreas
+mucocutaneous lymph node syndrome	Mucocutaneous Lymph Node Syndrome	27	mucocutaneous lymph node syndrome
+mucositis	Mucositis	4	mucositis
+multiple chronic conditions	Multiple Chronic Conditions	1	multiple chronic conditions
+multiple endocrine neoplasia type 1	Multiple Endocrine Neoplasia Type 1	1	multiple endocrine neoplasia type 1
+multiple myeloma	Multiple Myeloma	86	multiple myeloma
+multiple organ failure	Multiple Organ Failure	3	multiple organ failure
+multiple pulmonary nodules	Multiple Pulmonary Nodules	1	multiple pulmonary nodules
+multiple sclerosis	Multiple Sclerosis	54	multiple sclerosis
+multiple sclerosis, chronic progressive	Multiple Sclerosis, Chronic Progressive	5	multiple sclerosis chronic progressive
+multiple sclerosis, relapsing-remitting	Multiple Sclerosis, Relapsing-Remitting	9	multiple sclerosis relapsing remitting
+multiple system atrophy	Multiple System Atrophy	1	multiple system atrophy
+multiple trauma	Multiple Trauma	2	multiple trauma
+murine acquired immunodeficiency syndrome	Murine Acquired Immunodeficiency Syndrome	1	murine acquired immunodeficiency syndrome
+muscular atrophy	Muscular Atrophy	6	muscular atrophy
+muscular atrophy, spinal	Muscular Atrophy, Spinal	1	muscular atrophy spinal
+muscular diseases	Muscular Diseases	5	muscular diseases
+muscular disorders, atrophic	Muscular Disorders, Atrophic	1	muscular disorders atrophic
+muscular dystrophies	Muscular Dystrophies	9	muscular dystrophies
+muscular dystrophy, duchenne	Muscular Dystrophy, Duchenne	22	muscular dystrophy duchenne
+muscular dystrophy, facioscapulohumeral	Muscular Dystrophy, Facioscapulohumeral	3	muscular dystrophy facioscapulohumeral
+muscular dystrophy, oculopharyngeal	Muscular Dystrophy, Oculopharyngeal	1	muscular dystrophy oculopharyngeal
+myasthenia gravis	Myasthenia Gravis	8	myasthenia gravis
+myasthenia gravis with thymus hyperplasia	Myasthenia Gravis with Thymus Hyperplasia	1	myasthenia gravis with thymus hyperplasia
+mycobacterium avium-intracellulare infection	Mycobacterium avium-intracellulare Infection	4	mycobacterium avium intracellulare infection
+mycobacterium infections, nontuberculous	Mycobacterium Infections, Nontuberculous	4	mycobacterium infections nontuberculous
+mycoplasma infections	Mycoplasma Infections	1	mycoplasma infections
+mycoplasma pneumoniae pneumonia	Mycoplasma pneumoniae pneumonia	1	mycoplasma pneumoniae pneumonia
+mycoses	Mycoses	4	mycoses
+mycosis fungoides	Mycosis Fungoides	2	mycosis fungoides
+myelodysplastic syndromes	Myelodysplastic Syndromes	14	myelodysplastic syndromes
+myeloproliferative disorders	Myeloproliferative Disorders	3	myeloproliferative disorders
+myocardial dysfunction	Myocardial Dysfunction	1	myocardial dysfunction
+myocardial infarction	Myocardial Infarction	83	myocardial infarction
+myocardial infarction, acute	Myocardial Infarction, Acute	52	myocardial infarction acute
+myocardial injury	Myocardial Injury	2	myocardial injury
+myocardial ischemia	Myocardial Ischemia	21	myocardial ischemia
+myocardial reperfusion injury	Myocardial Reperfusion Injury	35	myocardial reperfusion injury
+myocarditis	Myocarditis	11	myocarditis
+myopia	Myopia	3	myopia
+myopia, degenerative	Myopia, Degenerative	2	myopia degenerative
+myotonic disorders	Myotonic Disorders	6	myotonic disorders
+myotonic dystrophy	Myotonic Dystrophy	1	myotonic dystrophy
+nager acrofacial dysostosis	Nager acrofacial dysostosis	1	nager acrofacial dysostosis
+nasal polyps	Nasal Polyps	4	nasal polyps
+nasopharyngeal carcinoma	Nasopharyngeal Carcinoma	116	nasopharyngeal carcinoma
+nasopharyngeal neoplasms	Nasopharyngeal Neoplasms	9	nasopharyngeal neoplasms
+nasopharyngitis	Nasopharyngitis	3	nasopharyngitis
+necrobiotic disorders	Necrobiotic Disorders	6	necrobiotic disorders
+necrosis	Necrosis	3	necrosis
+neonatal sepsis	Neonatal Sepsis	13	neonatal sepsis
+neoplasm metastasis	Neoplasm Metastasis	4	neoplasm metastasis
+neoplasm, residual	Neoplasm, Residual	3	neoplasm residual
+neoplasms	Neoplasms	4	neoplasms
+neoplasms, germ cell and embryonal	Neoplasms, Germ Cell and Embryonal	5	neoplasms germ cell and embryonal
+neoplasms, germ cell, intracranial	Neoplasms, Germ Cell, Intracranial	3	neoplasms germ cell intracranial
+neoplasms, germ cell, malignant	Neoplasms, Germ Cell, Malignant	4	neoplasms germ cell malignant
+neoplasms, glandular and epithelial	Neoplasms, Glandular and Epithelial	1	neoplasms glandular and epithelial
+neoplasms, multiple primary	Neoplasms, Multiple Primary	3	neoplasms multiple primary
+neoplasms, plasma cell	Neoplasms, Plasma Cell	3	neoplasms plasma cell
+neoplasms, second primary	Neoplasms, Second Primary	1	neoplasms second primary
+neoplasms, vascular tissue	Neoplasms, Vascular Tissue	1	neoplasms vascular tissue
+neovascularization, pathologic	Neovascularization, Pathologic	2	neovascularization pathologic
+nephritis, interstitial	Nephritis, Interstitial	11	nephritis interstitial
+nephrosclerosis	Nephrosclerosis	2	nephrosclerosis
+nephrotic syndrome	Nephrotic Syndrome	7	nephrotic syndrome
+nephrotic syndrome type 2	nephrotic syndrome type 2	2	nephrotic syndrome type 2
+nerve degeneration	Nerve Degeneration	12	nerve degeneration
+nervous necrosis virus infectious	Nervous Necrosis Virus Infectious	1	nervous necrosis virus infectious
+nervous system diseases	Nervous System Diseases	4	nervous system diseases
+netherton syndrome	Netherton Syndrome	2	netherton syndrome
+neural tube defects	Neural Tube Defects	2	neural tube defects
+neuralgia	Neuralgia	28	neuralgia
+neuralgia, postherpetic	Neuralgia, Postherpetic	1	neuralgia postherpetic
+neuroblastoma	Neuroblastoma	44	neuroblastoma
+neurodegenerative diseases	Neurodegenerative Diseases	5	neurodegenerative diseases
+neuroendocrine tumors	Neuroendocrine Tumors	5	neuroendocrine tumors
+neurofibromatosis 1	Neurofibromatosis 1	1	neurofibromatosis 1
+neurogenic inflammation	Neurogenic Inflammation	3	neurogenic inflammation
+neurologic manifestations	Neurologic Manifestations	1	neurologic manifestations
+neuromyelitis optica	Neuromyelitis Optica	5	neuromyelitis optica
+neurosarcoidosis	Neurosarcoidosis	1	neurosarcoidosis
+neurosyphilis	Neurosyphilis	8	neurosyphilis
+neurotic disorders	Neurotic Disorders	7	neurotic disorders
+neurotoxicity syndromes	Neurotoxicity Syndromes	6	neurotoxicity syndromes
+neutropenia, severe congenital, autosomal recessive 4	Neutropenia, Severe Congenital, Autosomal Recessive 4	1	neutropenia severe congenital autosomal recessive 4
+nevus, halo	Nevus, Halo	1	nevus halo
+newcastle disease	Newcastle Disease	3	newcastle disease
+niemann-pick diseases	Niemann-Pick Diseases	2	niemann pick diseases
+nijmegen breakage syndrome	Nijmegen Breakage Syndrome	2	nijmegen breakage syndrome
+non-aids-related kaposi sarcoma	Non-AIDS-related Kaposi sarcoma	1	non aids related kaposi sarcoma
+non-alcoholic fatty liver disease	Non-alcoholic Fatty Liver Disease	40	non alcoholic fatty liver disease
+non-alcoholic steatohepatitis	non-alcoholic steatohepatitis	1	non alcoholic steatohepatitis
+non-ischemic diabetic heart disease	Non-Ischemic Diabetic Heart Disease	1	non ischemic diabetic heart disease
+non-st elevated myocardial infarction	Non-ST Elevated Myocardial Infarction	1	non st elevated myocardial infarction
+nonpapillary renal cell carcinoma	nonpapillary renal cell carcinoma	3	nonpapillary renal cell carcinoma
+nonseminomatous germ cell tumor	Nonseminomatous germ cell tumor	1	nonseminomatous germ cell tumor
+nonsyndromic congenital nail disorder 7	nonsyndromic congenital nail disorder 7	1	nonsyndromic congenital nail disorder 7
+nonsyndromic sensorineural hearing loss	Nonsyndromic sensorineural hearing loss	2	nonsyndromic sensorineural hearing loss
+norrie disease	Norrie disease	12	norrie disease
+obesity	Obesity	59	obesity
+obesity, abdominal	Obesity, Abdominal	2	obesity abdominal
+obesity, maternal	Obesity, Maternal	4	obesity maternal
+obsessive-compulsive disorder	Obsessive-Compulsive Disorder	2	obsessive compulsive disorder
+oculocutaneous albinism type 3	Oculocutaneous Albinism Type 3	3	oculocutaneous albinism type 3
+oculodentodigital dysplasia	Oculodentodigital Dysplasia	1	oculodentodigital dysplasia
+oculodigitoesophagoduodenal syndrome	Oculodigitoesophagoduodenal syndrome	1	oculodigitoesophagoduodenal syndrome
+olfaction disorders	Olfaction Disorders	1	olfaction disorders
+oligospermia	Oligospermia	3	oligospermia
+oophoritis	Oophoritis	2	oophoritis
+opitz gbbb syndrome, x-linked	Opitz GBBB Syndrome, X-Linked	5	opitz gbbb syndrome x linked
+optic atrophy 1 and deafness	Optic atrophy 1 and deafness	2	optic atrophy 1 and deafness
+optic nerve injuries	Optic Nerve Injuries	1	optic nerve injuries
+optic neuritis	Optic Neuritis	2	optic neuritis
+oral submucous fibrosis	Oral Submucous Fibrosis	1	oral submucous fibrosis
+oral ulcer	Oral Ulcer	1	oral ulcer
+orchitis	Orchitis	1	orchitis
+orofaciodigital syndromes	Orofaciodigital Syndromes	1	orofaciodigital syndromes
+oropharyngeal neoplasms	Oropharyngeal Neoplasms	5	oropharyngeal neoplasms
+ossification of posterior longitudinal ligament	Ossification of Posterior Longitudinal Ligament	3	ossification of posterior longitudinal ligament
+ossification, heterotopic	Ossification, Heterotopic	1	ossification heterotopic
+osteitis deformans	Osteitis Deformans	4	osteitis deformans
+osteoarthritis	Osteoarthritis	90	osteoarthritis
+osteoarthritis, knee	Osteoarthritis, Knee	18	osteoarthritis knee
+osteoarthritis, post-traumatic	Osteoarthritis, Post-Traumatic	6	osteoarthritis post traumatic
+osteoarthritis, spine	Osteoarthritis, Spine	1	osteoarthritis spine
+osteoblastoma	Osteoblastoma	1	osteoblastoma
+osteochondritis dissecans	Osteochondritis Dissecans	14	osteochondritis dissecans
+osteochondrodysplasias	Osteochondrodysplasias	3	osteochondrodysplasias
+osteogenesis imperfecta type 1	osteogenesis imperfecta type 1	2	osteogenesis imperfecta type 1
+osteolysis	Osteolysis	3	osteolysis
+osteopenic nonfracture syndrome	Osteopenic Nonfracture Syndrome	1	osteopenic nonfracture syndrome
+osteoporosis	Osteoporosis	84	osteoporosis
+osteoporosis, diabetic	Osteoporosis, Diabetic	1	osteoporosis diabetic
+osteoporosis, postmenopausal	Osteoporosis, Postmenopausal	22	osteoporosis postmenopausal
+osteoporosis-pseudoglioma syndrome	Osteoporosis-pseudoglioma syndrome	5	osteoporosis pseudoglioma syndrome
+osteoporotic fractures	Osteoporotic Fractures	6	osteoporotic fractures
+osteosarcoma	Osteosarcoma	214	osteosarcoma
+osteosarcoma, juxtacortical	Osteosarcoma, Juxtacortical	2	osteosarcoma juxtacortical
+otitis media	Otitis Media	2	otitis media
+otitis media with effusion	Otitis Media with Effusion	1	otitis media with effusion
+ovarian clear cell carcinoma	ovarian clear cell carcinoma	1	ovarian clear cell carcinoma
+ovarian cysts	Ovarian Cysts	1	ovarian cysts
+ovarian diseases	Ovarian Diseases	3	ovarian diseases
+ovarian failure, premature	Ovarian Failure, Premature	3	ovarian failure premature
+ovarian hyperstimulation syndrome	Ovarian Hyperstimulation Syndrome	1	ovarian hyperstimulation syndrome
+ovarian insufficiency, premature	Ovarian Insufficiency, Premature	5	ovarian insufficiency premature
+ovarian neoplasms	Ovarian Neoplasms	195	ovarian neoplasms
+ovarian neoplasms, high-grade serous	Ovarian Neoplasms, High-Grade Serous	11	ovarian neoplasms high grade serous
+ovarian neoplasms, serous	Ovarian Neoplasms, Serous	1	ovarian neoplasms serous
+paget disease, extramammary	Paget Disease, Extramammary	1	paget disease extramammary
+pain, inflammatory	Pain, Inflammatory	2	pain inflammatory
+pain, postoperative	Pain, Postoperative	1	pain postoperative
+pancreatic adenocarcinoma	pancreatic adenocarcinoma	5	pancreatic adenocarcinoma
+pancreatic carcinoma	Pancreatic Carcinoma	133	pancreatic carcinoma
+pancreatic diseases	Pancreatic Diseases	4	pancreatic diseases
+pancreatic neoplasms	Pancreatic Neoplasms	14	pancreatic neoplasms
+pancreatic neuroendocrine tumor	Pancreatic Neuroendocrine Tumor	1	pancreatic neuroendocrine tumor
+pancreatitis	Pancreatitis	31	pancreatitis
+pancreatitis, acute necrotizing	Pancreatitis, Acute Necrotizing	2	pancreatitis acute necrotizing
+pancreatitis, chronic	Pancreatitis, Chronic	13	pancreatitis chronic
+panniculitis, peritoneal	Panniculitis, Peritoneal	1	panniculitis peritoneal
+papillary thyroid microcarcinoma	Papillary Thyroid Microcarcinoma	4	papillary thyroid microcarcinoma
+papilloma, choroid plexus	Papilloma, Choroid Plexus	1	papilloma choroid plexus
+papillomavirus infections	Papillomavirus Infections	8	papillomavirus infections
+papillon-lefevre disease	Papillon-Lefevre Disease	2	papillon lefevre disease
+paraganglioma	Paraganglioma	1	paraganglioma
+paranasal sinus neoplasms	Paranasal Sinus Neoplasms	1	paranasal sinus neoplasms
+parasitic diseases	Parasitic Diseases	2	parasitic diseases
+parathyroid neoplasms	Parathyroid Neoplasms	13	parathyroid neoplasms
+parkinson disease	Parkinson Disease	61	parkinson disease
+parkinsonian disorders	Parkinsonian Disorders	2	parkinsonian disorders
+pars planitis	Pars Planitis	4	pars planitis
+pathological scars	Pathological Scars	1	pathological scars
+pediatric obesity	Pediatric Obesity	14	pediatric obesity
+pelizaeus-merzbacher disease	Pelizaeus-Merzbacher Disease	3	pelizaeus merzbacher disease
+pelvic organ prolapse	Pelvic Organ Prolapse	1	pelvic organ prolapse
+pemphigoid, bullous	Pemphigoid, Bullous	1	pemphigoid bullous
+pemphigus, benign familial	Pemphigus, Benign Familial	1	pemphigus benign familial
+peptic ulcer	Peptic Ulcer	4	peptic ulcer
+peri-implantitis	Peri-Implantitis	2	peri implantitis
+periapical diseases	Periapical Diseases	1	periapical diseases
+pericardial effusion	Pericardial Effusion	1	pericardial effusion
+perinatal asphyxia	Perinatal Asphyxia	5	perinatal asphyxia
+perinatal death	Perinatal Death	2	perinatal death
+periodontal diseases	Periodontal Diseases	3	periodontal diseases
+periodontitis	Periodontitis	18	periodontitis
+peripartum cardiomyopathy	peripartum cardiomyopathy	7	peripartum cardiomyopathy
+peripartum cardiomyopathy	Peripartum Cardiomyopathy	1	peripartum cardiomyopathy
+peripheral arterial disease	Peripheral Arterial Disease	4	peripheral arterial disease
+peripheral nerve injuries	Peripheral Nerve Injuries	4	peripheral nerve injuries
+peripheral nervous system diseases	Peripheral Nervous System Diseases	2	peripheral nervous system diseases
+peritoneal diseases	Peritoneal Diseases	1	peritoneal diseases
+peritoneal fibrosis	Peritoneal Fibrosis	5	peritoneal fibrosis
+peritoneal neoplasms	Peritoneal Neoplasms	5	peritoneal neoplasms
+peritonsillar abscess	Peritonsillar Abscess	1	peritonsillar abscess
+persistent fetal circulation syndrome	Persistent Fetal Circulation Syndrome	1	persistent fetal circulation syndrome
+persistent neck-pain disability	Persistent Neck-Pain Disability	1	persistent neck pain disability
+peste-des-petits-ruminants	Peste-des-Petits-Ruminants	1	peste des petits ruminants
+phenylketonurias	Phenylketonurias	2	phenylketonurias
+pheochromocytoma	Pheochromocytoma	2	pheochromocytoma
+pigmented paravenous chorioretinal atrophy	Pigmented Paravenous Chorioretinal Atrophy	2	pigmented paravenous chorioretinal atrophy
+pituitary diseases	Pituitary Diseases	6	pituitary diseases
+pituitary neoplasms	Pituitary Neoplasms	15	pituitary neoplasms
+placenta diseases	Placenta Diseases	2	placenta diseases
+plant poisoning	Plant Poisoning	1	plant poisoning
+plaque, amyloid	Plaque, Amyloid	1	plaque amyloid
+plaque, atherosclerotic	Plaque, Atherosclerotic	15	plaque atherosclerotic
+plasmablastic lymphoma	Plasmablastic Lymphoma	1	plasmablastic lymphoma
+platelet storage lesion	Platelet Storage Lesion	1	platelet storage lesion
+platelet storage pool deficiency	Platelet Storage Pool Deficiency	2	platelet storage pool deficiency
+pleural diseases	Pleural Diseases	1	pleural diseases
+pleural effusion, malignant	Pleural Effusion, Malignant	3	pleural effusion malignant
+pneumococcal infections	Pneumococcal Infections	1	pneumococcal infections
+pneumoconiosis	Pneumoconiosis	1	pneumoconiosis
+pneumonia	Pneumonia	24	pneumonia
+pneumonia, bacterial	Pneumonia, Bacterial	1	pneumonia bacterial
+pneumonia, mycoplasma	Pneumonia, Mycoplasma	21	pneumonia mycoplasma
+pneumonia, ventilator-associated	Pneumonia, Ventilator-Associated	1	pneumonia ventilator associated
+poikiloderma with neutropenia	Poikiloderma with Neutropenia	2	poikiloderma with neutropenia
+polycystic kidney disease 3	polycystic kidney disease 3	3	polycystic kidney disease 3
+polycystic kidney diseases	Polycystic Kidney Diseases	1	polycystic kidney diseases
+polycystic ovary syndrome	Polycystic Ovary Syndrome	56	polycystic ovary syndrome
+polycythemia	Polycythemia	3	polycythemia
+polydactyly	Polydactyly	1	polydactyly
+polymyositis	Polymyositis	3	polymyositis
+polyneuropathies	Polyneuropathies	1	polyneuropathies
+polyps	Polyps	2	polyps
+porcine reproductive and respiratory syndrome	Porcine Reproductive and Respiratory Syndrome	3	porcine reproductive and respiratory syndrome
+porphyria, variegate	Porphyria, Variegate	2	porphyria variegate
+post-cardiac arrest syndrome	Post-Cardiac Arrest Syndrome	1	post cardiac arrest syndrome
+post-concussion syndrome	Post-Concussion Syndrome	2	post concussion syndrome
+postoperative cognitive complications	Postoperative Cognitive Complications	3	postoperative cognitive complications
+postoperative nausea and vomiting	Postoperative Nausea and Vomiting	1	postoperative nausea and vomiting
+postural orthostatic tachycardia syndrome	Postural Orthostatic Tachycardia Syndrome	1	postural orthostatic tachycardia syndrome
+prader-willi syndrome	Prader-Willi Syndrome	1	prader willi syndrome
+pre-eclampsia	Pre-Eclampsia	80	pre eclampsia
+precancerous conditions	Precancerous Conditions	30	precancerous conditions
+precursor b-cell lymphoblastic leukemia-lymphoma	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	6	precursor b cell lymphoblastic leukemia lymphoma
+precursor cell lymphoblastic leukemia-lymphoma	Precursor Cell Lymphoblastic Leukemia-Lymphoma	37	precursor cell lymphoblastic leukemia lymphoma
+precursor t-cell lymphoblastic leukemia-lymphoma	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	15	precursor t cell lymphoblastic leukemia lymphoma
+prediabetic state	Prediabetic State	3	prediabetic state
+pregnancy, ectopic	Pregnancy, Ectopic	5	pregnancy ectopic
+premature birth	Premature Birth	6	premature birth
+primary gastrointestinal diffuse large b-cell lymphoma	Primary Gastrointestinal Diffuse Large B-Cell Lymphoma	1	primary gastrointestinal diffuse large b cell lymphoma
+primary graft dysfunction	Primary Graft Dysfunction	4	primary graft dysfunction
+primary myelofibrosis	Primary Myelofibrosis	4	primary myelofibrosis
+primary ovarian insufficiency	Primary Ovarian Insufficiency	4	primary ovarian insufficiency
+progeria	Progeria	1	progeria
+prostate adenocarcinoma	prostate adenocarcinoma	1	prostate adenocarcinoma
+prostatic diseases	Prostatic Diseases	1	prostatic diseases
+prostatic hyperplasia	Prostatic Hyperplasia	6	prostatic hyperplasia
+prostatic neoplasms	Prostatic Neoplasms	183	prostatic neoplasms
+prostatic neoplasms, castration-resistant	Prostatic Neoplasms, Castration-Resistant	10	prostatic neoplasms castration resistant
+prostatitis	Prostatitis	1	prostatitis
+prostatitis, chronic	Prostatitis, Chronic	3	prostatitis chronic
+protein-losing enteropathies	Protein-Losing Enteropathies	3	protein losing enteropathies
+proteinuria	Proteinuria	6	proteinuria
+pruritus	Pruritus	2	pruritus
+psoriasis	Psoriasis	2	psoriasis
+psoriasis 1	psoriasis 1	21	psoriasis 1
+psychotic disorders	Psychotic Disorders	1	psychotic disorders
+pterygium	Pterygium	1	pterygium
+pulmonary arterial hypertension	Pulmonary Arterial Hypertension	27	pulmonary arterial hypertension
+pulmonary disease, chronic obstructive	Pulmonary Disease, Chronic Obstructive	52	pulmonary disease chronic obstructive
+pulmonary edema	Pulmonary Edema	1	pulmonary edema
+pulmonary edema of mountaineers	Pulmonary edema of mountaineers	1	pulmonary edema of mountaineers
+pulmonary embolism	Pulmonary Embolism	7	pulmonary embolism
+pulmonary embolism, acute	Pulmonary Embolism, Acute	2	pulmonary embolism acute
+pulmonary fibrosis	Pulmonary Fibrosis	33	pulmonary fibrosis
+pulmonary veno-occlusive disease	Pulmonary Veno-Occlusive Disease	1	pulmonary veno occlusive disease
+pulpitis	Pulpitis	4	pulpitis
+purpura	Purpura	1	purpura
+pyruvate kinase deficiency of red cells	Pyruvate Kinase Deficiency of Red Cells	1	pyruvate kinase deficiency of red cells
+rabies	Rabies	1	rabies
+radiation injuries	Radiation Injuries	2	radiation injuries
+recessive dystrophic epidermolysis bullosa	recessive dystrophic epidermolysis bullosa	1	recessive dystrophic epidermolysis bullosa
+rectal injury	Rectal Injury	1	rectal injury
+rectal neoplasms	Rectal Neoplasms	8	rectal neoplasms
+recurrence	Recurrence	1	recurrence
+reflex sympathetic dystrophy	Reflex Sympathetic Dystrophy	2	reflex sympathetic dystrophy
+refractory angina	Refractory Angina	1	refractory angina
+relative energy deficiency in sport	Relative Energy Deficiency in Sport	1	relative energy deficiency in sport
+renal allograft dysfunction	Renal Allograft Dysfunction	1	renal allograft dysfunction
+renal fibrosis	renal fibrosis	2	renal fibrosis
+renal insufficiency	Renal Insufficiency	3	renal insufficiency
+renal insufficiency, chronic	Renal Insufficiency, Chronic	19	renal insufficiency chronic
+renal interstitial fibrosis	Renal Interstitial Fibrosis	1	renal interstitial fibrosis
+reperfusion injury	Reperfusion Injury	18	reperfusion injury
+reperfusion injury, cerebral ischemia	Reperfusion Injury, Cerebral Ischemia	19	reperfusion injury cerebral ischemia
+reperfusion injury, hepatic ischemia	Reperfusion Injury, Hepatic Ischemia	3	reperfusion injury hepatic ischemia
+reperfusion injury, intestinal ischemia	Reperfusion Injury, Intestinal Ischemia	3	reperfusion injury intestinal ischemia
+reperfusion injury, ischemia	Reperfusion Injury, Ischemia	1	reperfusion injury ischemia
+reperfusion injury, renal ischemia	Reperfusion Injury, Renal Ischemia	11	reperfusion injury renal ischemia
+reperfusion injury, steatotic liver ischemia	Reperfusion Injury, Steatotic Liver Ischemia	1	reperfusion injury steatotic liver ischemia
+respiration disorders	Respiration Disorders	5	respiration disorders
+respiration disorders, infant	Respiration Disorders, Infant	1	respiration disorders infant
+respiratory distress syndrome	Respiratory Distress Syndrome	27	respiratory distress syndrome
+respiratory distress syndrome, newborn	Respiratory Distress Syndrome, Newborn	6	respiratory distress syndrome newborn
+respiratory insufficiency	Respiratory Insufficiency	1	respiratory insufficiency
+respiratory sounds	Respiratory Sounds	1	respiratory sounds
+respiratory syncytial virus infections	Respiratory Syncytial Virus Infections	2	respiratory syncytial virus infections
+respiratory tract infections	Respiratory Tract Infections	1	respiratory tract infections
+reticuloendotheliosis virus infections	Reticuloendotheliosis Virus Infections	1	reticuloendotheliosis virus infections
+retinal cone dystrophy 3b	Retinal Cone Dystrophy 3B	1	retinal cone dystrophy 3b
+retinal degeneration	Retinal Degeneration	5	retinal degeneration
+retinal detachment	Retinal Detachment	2	retinal detachment
+retinal diseases	Retinal Diseases	9	retinal diseases
+retinal dystrophies	Retinal Dystrophies	3	retinal dystrophies
+retinal neovascularization	Retinal Neovascularization	2	retinal neovascularization
+retinitis	Retinitis	3	retinitis
+retinitis pigmentosa	Retinitis Pigmentosa	1	retinitis pigmentosa
+retinoblastoma	Retinoblastoma	65	retinoblastoma
+retinopathy of prematurity	Retinopathy of Prematurity	3	retinopathy of prematurity
+rett syndrome	Rett Syndrome	1	rett syndrome
+rh-negative hemolytic disease, fetus	Rh-Negative Hemolytic Disease, Fetus	2	rh negative hemolytic disease fetus
+rhabdoid tumor, kidney	Rhabdoid Tumor, Kidney	1	rhabdoid tumor kidney
+rhabdomyosarcoma	Rhabdomyosarcoma	4	rhabdomyosarcoma
+rhabdomyosarcoma 1	Rhabdomyosarcoma 1	1	rhabdomyosarcoma 1
+rheumatic heart disease	Rheumatic Heart Disease	1	rheumatic heart disease
+rhinitis, allergic	Rhinitis, Allergic	17	rhinitis allergic
+rhiny	Rhiny	4	rhiny
+rift valley fever	Rift Valley Fever	4	rift valley fever
+rotator cuff injuries	Rotator Cuff Injuries	1	rotator cuff injuries
+rupture	Rupture	1	rupture
+salivary gland adenoid cystic carcinoma	salivary gland adenoid cystic carcinoma	9	salivary gland adenoid cystic carcinoma
+sarcoidosis	Sarcoidosis	7	sarcoidosis
+sarcoma	Sarcoma	4	sarcoma
+sarcoma, ewing	Sarcoma, Ewing	10	sarcoma ewing
+sarcoma, kaposi	Sarcoma, Kaposi	2	sarcoma kaposi
+sarcoma, synovial	Sarcoma, Synovial	1	sarcoma synovial
+sarcopenia	Sarcopenia	23	sarcopenia
+schistosomiasis	Schistosomiasis	4	schistosomiasis
+schizophrenia	Schizophrenia	28	schizophrenia
+scholte syndrome	Scholte syndrome	2	scholte syndrome
+schopf-schulz-passarge syndrome	Schopf-Schulz-Passarge Syndrome	4	schopf schulz passarge syndrome
+sciatic neuropathy	Sciatic Neuropathy	3	sciatic neuropathy
+sciatica	Sciatica	1	sciatica
+scleroderma, diffuse	Scleroderma, Diffuse	2	scleroderma diffuse
+scleroderma, systemic	Scleroderma, Systemic	12	scleroderma systemic
+scoliosis, adolescent	Scoliosis, Adolescent	1	scoliosis adolescent
+segmental vitiligo	Segmental Vitiligo	1	segmental vitiligo
+seizures	Seizures	2	seizures
+selenium deficiency	Selenium Deficiency	1	selenium deficiency
+seminoma	Seminoma	4	seminoma
+sepsis	Sepsis	88	sepsis
+sepsis, intensive care unit-acquired	Sepsis, Intensive Care Unit-Acquired	1	sepsis intensive care unit acquired
+sepsis-associated encephalopathy	Sepsis-Associated Encephalopathy	4	sepsis associated encephalopathy
+severe acute respiratory syndrome	Severe Acute Respiratory Syndrome	3	severe acute respiratory syndrome
+severe asthma	Severe Asthma	1	severe asthma
+sexually transmitted diseases	Sexually Transmitted Diseases	2	sexually transmitted diseases
+sexually transmitted diseases, viral	Sexually Transmitted Diseases, Viral	1	sexually transmitted diseases viral
+sezary syndrome	Sezary Syndrome	1	sezary syndrome
+shock, cardiogenic	Shock, Cardiogenic	1	shock cardiogenic
+shock, hemorrhagic	Shock, Hemorrhagic	3	shock hemorrhagic
+shock, septic	Shock, Septic	7	shock septic
+short stature, idiopathic, autosomal	Short Stature, Idiopathic, Autosomal	2	short stature idiopathic autosomal
+sick sinus syndrome	Sick Sinus Syndrome	1	sick sinus syndrome
+siderosis	Siderosis	7	siderosis
+signs and symptoms	Signs and Symptoms	2	signs and symptoms
+silicotuberculosis	Silicotuberculosis	3	silicotuberculosis
+sinus thrombosis, intracranial	Sinus Thrombosis, Intracranial	1	sinus thrombosis intracranial
+sjogren's syndrome	Sjogren's Syndrome	18	sjogren s syndrome
+skeletal muscle dysplasia	Skeletal Muscle Dysplasia	2	skeletal muscle dysplasia
+skeletal muscle injury	Skeletal Muscle Injury	1	skeletal muscle injury
+skin aging	Skin Aging	1	skin aging
+skin diseases	Skin Diseases	5	skin diseases
+skin melanoma	skin melanoma	1	skin melanoma
+skin neoplasms	Skin Neoplasms	2	skin neoplasms
+sleep apnea syndromes	Sleep Apnea Syndromes	3	sleep apnea syndromes
+sleep apnea, obstructive	Sleep Apnea, Obstructive	18	sleep apnea obstructive
+sleep deprivation	Sleep Deprivation	3	sleep deprivation
+small cell lung carcinoma	Small Cell Lung Carcinoma	26	small cell lung carcinoma
+small-bowel neuroendocrine tumor	Small-Bowel Neuroendocrine Tumor	2	small bowel neuroendocrine tumor
+smith-mccort dysplasia	Smith-McCort Dysplasia	1	smith mccort dysplasia
+smoke inhalation injury	Smoke Inhalation Injury	1	smoke inhalation injury
+smooth muscle tumor	Smooth Muscle Tumor	1	smooth muscle tumor
+spermatic cord torsion	Spermatic Cord Torsion	1	spermatic cord torsion
+spherocytosis, hereditary	Spherocytosis, Hereditary	2	spherocytosis hereditary
+spinal cord compression	Spinal Cord Compression	1	spinal cord compression
+spinal cord glioma	spinal cord glioma	1	spinal cord glioma
+spinal cord injuries	Spinal Cord Injuries	63	spinal cord injuries
+spinal cord ischemia	Spinal Cord Ischemia	3	spinal cord ischemia
+spinal injuries	Spinal Injuries	1	spinal injuries
+splenic neoplasms	Splenic Neoplasms	1	splenic neoplasms
+spondyloepimetaphyseal dysplasia, strudwick type	spondyloepimetaphyseal dysplasia, Strudwick type	5	spondyloepimetaphyseal dysplasia strudwick type
+sporatic amyotrophic lateral sclerosis	sporatic amyotrophic lateral sclerosis	4	sporatic amyotrophic lateral sclerosis
+squamous cell carcinoma of head and neck	Squamous Cell Carcinoma of Head and Neck	191	squamous cell carcinoma of head and neck
+squamous intraepithelial lesions	Squamous Intraepithelial Lesions	3	squamous intraepithelial lesions
+squamous intraepithelial lesions, cervical	Squamous Intraepithelial Lesions, Cervical	2	squamous intraepithelial lesions cervical
+st elevation myocardial infarction	ST Elevation Myocardial Infarction	19	st elevation myocardial infarction
+stanford type a aortic dissection	Stanford Type A Aortic Dissection	1	stanford type a aortic dissection
+status epilepticus	Status Epilepticus	2	status epilepticus
+still's disease, adult-onset	Still's Disease, Adult-Onset	4	still s disease adult onset
+stomach diseases	Stomach Diseases	1	stomach diseases
+stomach neoplasms	Stomach Neoplasms	316	stomach neoplasms
+stomach ulcer	Stomach Ulcer	1	stomach ulcer
+stomatitis	Stomatitis	1	stomatitis
+stress disorders, post-traumatic	Stress Disorders, Post-Traumatic	1	stress disorders post traumatic
+stress disorders, traumatic	Stress Disorders, Traumatic	1	stress disorders traumatic
+striatonigral degeneration	Striatonigral Degeneration	1	striatonigral degeneration
+stroke	Stroke	18	stroke
+subarachnoid hemorrhage	Subarachnoid Hemorrhage	22	subarachnoid hemorrhage
+substance abuse, intravenous	Substance Abuse, Intravenous	3	substance abuse intravenous
+substance withdrawal syndrome	Substance Withdrawal Syndrome	1	substance withdrawal syndrome
+substance-related disorders	Substance-Related Disorders	5	substance related disorders
+succinic semialdehyde dehydrogenase deficiency	succinic semialdehyde dehydrogenase deficiency	1	succinic semialdehyde dehydrogenase deficiency
+sucrase-isomaltase deficiency, congenital	Sucrase-isomaltase deficiency, congenital	1	sucrase isomaltase deficiency congenital
+suppuration	Suppuration	3	suppuration
+supranuclear palsy, progressive	Supranuclear Palsy, Progressive	5	supranuclear palsy progressive
+sveinsson chorioretinal atrophy	Sveinsson Chorioretinal Atrophy	5	sveinsson chorioretinal atrophy
+syphilis	Syphilis	12	syphilis
+syphilis, primary	Syphilis, primary	1	syphilis primary
+syphilis, secondary	Syphilis, secondary	1	syphilis secondary
+systemic inflammatory response syndrome	Systemic Inflammatory Response Syndrome	1	systemic inflammatory response syndrome
+takayasu arteritis	Takayasu Arteritis	5	takayasu arteritis
+talaromycosis	talaromycosis	3	talaromycosis
+telangiectasia, hereditary hemorrhagic	Telangiectasia, Hereditary Hemorrhagic	3	telangiectasia hereditary hemorrhagic
+temporomandibular joint dysfunction syndrome	Temporomandibular Joint Dysfunction Syndrome	1	temporomandibular joint dysfunction syndrome
+tendinopathy	Tendinopathy	2	tendinopathy
+tendon injuries	Tendon Injuries	2	tendon injuries
+teratoid rhabdoid tumor, atypical	Teratoid Rhabdoid Tumor, Atypical	1	teratoid rhabdoid tumor atypical
+teratoma	Teratoma	3	teratoma
+testicular diseases	Testicular Diseases	6	testicular diseases
+testicular germ cell tumor	Testicular Germ Cell Tumor	5	testicular germ cell tumor
+testicular neoplasms	Testicular Neoplasms	3	testicular neoplasms
+tetralogy of fallot	Tetralogy of Fallot	1	tetralogy of fallot
+thalassemia	Thalassemia	1	thalassemia
+thiamine deficiency	Thiamine Deficiency	1	thiamine deficiency
+thinness	Thinness	1	thinness
+thromboangiitis obliterans	Thromboangiitis Obliterans	1	thromboangiitis obliterans
+thrombocytopenia	Thrombocytopenia	22	thrombocytopenia
+thrombophlebitis	Thrombophlebitis	1	thrombophlebitis
+thrombosis	Thrombosis	4	thrombosis
+thymic aplasia	Thymic aplasia	1	thymic aplasia
+thyroid cancer, medullary	Thyroid cancer, medullary	5	thyroid cancer medullary
+thyroid cancer, papillary	Thyroid Cancer, Papillary	114	thyroid cancer papillary
+thyroid carcinoma, anaplastic	Thyroid Carcinoma, Anaplastic	10	thyroid carcinoma anaplastic
+thyroid neoplasms	Thyroid Neoplasms	54	thyroid neoplasms
+thyroid nodule	Thyroid Nodule	7	thyroid nodule
+thyroiditis, autoimmune	Thyroiditis, Autoimmune	2	thyroiditis autoimmune
+thyroiditis, subacute	Thyroiditis, Subacute	1	thyroiditis subacute
+tibial fractures	Tibial Fractures	2	tibial fractures
+tinnitus	Tinnitus	1	tinnitus
+tissue adhesions	Tissue Adhesions	1	tissue adhesions
+tongue neoplasms	Tongue Neoplasms	4	tongue neoplasms
+tooth, supernumerary	Tooth, Supernumerary	2	tooth supernumerary
+tourette syndrome	Tourette Syndrome	1	tourette syndrome
+toxoplasmosis	Toxoplasmosis	5	toxoplasmosis
+toxoplasmosis, cerebral	Toxoplasmosis, Cerebral	5	toxoplasmosis cerebral
+toxoplasmosis, ocular	Toxoplasmosis, Ocular	5	toxoplasmosis ocular
+trachoma	Trachoma	1	trachoma
+transmissible gastroenteritis	Transmissible Gastroenteritis	2	transmissible gastroenteritis
+tricho-dento-osseous syndrome	Tricho-dento-osseous syndrome	1	tricho dento osseous syndrome
+trigeminal neuralgia	Trigeminal Neuralgia	7	trigeminal neuralgia
+triple negative breast neoplasms	Triple Negative Breast Neoplasms	99	triple negative breast neoplasms
+trypanosomiasis	Trypanosomiasis	1	trypanosomiasis
+tuberculosis	Tuberculosis	40	tuberculosis
+tuberculosis, gastrointestinal	Tuberculosis, Gastrointestinal	1	tuberculosis gastrointestinal
+tuberculosis, multidrug-resistant	Tuberculosis, Multidrug-Resistant	1	tuberculosis multidrug resistant
+tuberculosis, pulmonary	Tuberculosis, Pulmonary	27	tuberculosis pulmonary
+tuberous sclerosis	Tuberous Sclerosis	7	tuberous sclerosis
+tuberous sclerosis 1	Tuberous Sclerosis 1	1	tuberous sclerosis 1
+turcot syndrome	Turcot syndrome	1	turcot syndrome
+typical teratoid rhabdoid tumor	Typical Teratoid Rhabdoid Tumor	1	typical teratoid rhabdoid tumor
+ulcerative colitis	Ulcerative Colitis	2	ulcerative colitis
+ullrich congenital muscular dystrophy	Ullrich congenital muscular dystrophy	5	ullrich congenital muscular dystrophy
+upper tract urothelial carcinoma	Upper Tract Urothelial Carcinoma	1	upper tract urothelial carcinoma
+uremia	Uremia	6	uremia
+urethral stricture	Urethral Stricture	1	urethral stricture
+urinary bladder neoplasms	Urinary Bladder Neoplasms	124	urinary bladder neoplasms
+urinary incontinence, stress	Urinary Incontinence, Stress	2	urinary incontinence stress
+urogenital neoplasms	Urogenital Neoplasms	1	urogenital neoplasms
+urologic neoplasms	Urologic Neoplasms	8	urologic neoplasms
+urothelial carcinoma	Urothelial Carcinoma	5	urothelial carcinoma
+urticaria	Urticaria	7	urticaria
+uterine cervical diseases	Uterine Cervical Diseases	8	uterine cervical diseases
+uterine cervical dysplasia	Uterine Cervical Dysplasia	1	uterine cervical dysplasia
+uterine cervical neoplasms	Uterine Cervical Neoplasms	193	uterine cervical neoplasms
+uterine diseases	Uterine Diseases	4	uterine diseases
+uterine neoplasms	Uterine Neoplasms	3	uterine neoplasms
+uveal melanoma	Uveal melanoma	16	uveal melanoma
+uveitis	Uveitis	2	uveitis
+vaginosis, bacterial	Vaginosis, Bacterial	1	vaginosis bacterial
+varicocele	Varicocele	1	varicocele
+vascular calcification	Vascular Calcification	11	vascular calcification
+vascular diseases	Vascular Diseases	15	vascular diseases
+vascular malformations	Vascular Malformations	1	vascular malformations
+vascular remodeling	Vascular Remodeling	1	vascular remodeling
+vascular system injuries	Vascular System Injuries	3	vascular system injuries
+vasoplegia	Vasoplegia	1	vasoplegia
+vasospasm, intracranial	Vasospasm, Intracranial	2	vasospasm intracranial
+vasospasm, intracranial, postoperative	Vasospasm, Intracranial, Postoperative	1	vasospasm intracranial postoperative
+venous thromboembolism	Venous Thromboembolism	8	venous thromboembolism
+venous thrombosis	Venous Thrombosis	12	venous thrombosis
+ventricular dysfunction	Ventricular Dysfunction	1	ventricular dysfunction
+ventricular dysfunction, left	Ventricular Dysfunction, Left	2	ventricular dysfunction left
+ventricular premature complexes	Ventricular Premature Complexes	9	ventricular premature complexes
+ventricular remodeling	Ventricular Remodeling	2	ventricular remodeling
+vertigo	Vertigo	5	vertigo
+vesicular stomatitis	Vesicular Stomatitis	1	vesicular stomatitis
+vessel restenosis	Vessel Restenosis	1	vessel restenosis
+virus diseases	Virus Diseases	3	virus diseases
+vitamin b deficiency	Vitamin B Deficiency	2	vitamin b deficiency
+vitiligo	Vitiligo	6	vitiligo
+vitreoretinochoroidopathy	Vitreoretinochoroidopathy	2	vitreoretinochoroidopathy
+vitreoretinopathy, proliferative	Vitreoretinopathy, Proliferative	3	vitreoretinopathy proliferative
+von hippel-lindau disease	von Hippel-Lindau Disease	1	von hippel lindau disease
+von willebrand diseases	von Willebrand Diseases	2	von willebrand diseases
+vulva squamous cell carcinoma	vulva squamous cell carcinoma	1	vulva squamous cell carcinoma
+vulvar neoplasms	Vulvar Neoplasms	1	vulvar neoplasms
+warburg micro syndrome 1	Warburg micro syndrome 1	2	warburg micro syndrome 1
+weight loss	Weight Loss	3	weight loss
+weil disease	Weil Disease	6	weil disease
+werner syndrome	Werner Syndrome	1	werner syndrome
+west nile fever	West Nile Fever	1	west nile fever
+white coat hypertension	White Coat Hypertension	1	white coat hypertension
+wilms tumor	Wilms Tumor	25	wilms tumor
+wiskott-aldrich syndrome	Wiskott-Aldrich Syndrome	1	wiskott aldrich syndrome
+wound healing	Wound Healing	2	wound healing
+wounds and injuries	Wounds and Injuries	16	wounds and injuries
+x-linked juvenile retinoschisis 1	X-linked juvenile retinoschisis 1	1	x linked juvenile retinoschisis 1
+xerostomia	Xerostomia	2	xerostomia
+yellow nail syndrome	Yellow Nail Syndrome	1	yellow nail syndrome
+zika virus congenital syndrome	Zika virus congenital syndrome	2	zika virus congenital syndrome
+zika virus infection	Zika Virus Infection	2	zika virus infection

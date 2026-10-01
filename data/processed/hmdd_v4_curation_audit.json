@@ -1,0 +1,64 @@
+{
+  "generated_at_utc": "2026-09-06T21:42:53.573104+00:00",
+  "source_file": "data/raw/hmdd/hmdd_v4_2023_07_original.txt",
+  "policy": {
+    "species_rule": "retain records whose normalized miRNA label begins with hsa-",
+    "strict_include_codes": [
+      "circulation_biomarker_diagnosis_down",
+      "circulation_biomarker_diagnosis_ns",
+      "circulation_biomarker_diagnosis_up",
+      "circulation_biomarker_prognosis_down",
+      "circulation_biomarker_prognosis_ns",
+      "circulation_biomarker_prognosis_up",
+      "epigenetics",
+      "exosome",
+      "genetics_GWAS",
+      "genetics_knock down_promote",
+      "genetics_knock down_suppress",
+      "genetics_overexpression_promote",
+      "genetics_overexpression_suppress",
+      "therapeutic target",
+      "tissue_expression_down",
+      "tissue_expression_ns",
+      "tissue_expression_up"
+    ],
+    "broad_only_include_codes": [
+      "other"
+    ],
+    "excluded_codes": [
+      "circRNA target",
+      "lncRNA target",
+      "target gene",
+      "transcription factor target",
+      "virus_miRNA"
+    ],
+    "pair_deduplication_key": [
+      "normalized_mirna_id",
+      "normalized_disease_label"
+    ],
+    "provenance_aggregation": [
+      "codes",
+      "PMIDs",
+      "descriptions",
+      "source_row_count"
+    ]
+  },
+  "counts": {
+    "broad_only_retained_rows": 17441,
+    "excluded_code::circRNA target": 951,
+    "excluded_code::lncRNA target": 11306,
+    "excluded_code::target gene": 1137,
+    "excluded_code::transcription factor target": 4358,
+    "excluded_nonhuman_or_unresolved_mirna": 178,
+    "raw_rows": 53553,
+    "strict_retained_rows": 18182
+  },
+  "outputs": {
+    "strict_pair_count": 13035,
+    "broad_pair_count": 23494,
+    "excluded_record_count": 17930,
+    "strict_output": "data/processed/hmdd_v4_human_strict.tsv",
+    "broad_output": "data/processed/hmdd_v4_human_broad.tsv",
+    "excluded_output": "data/processed/hmdd_v4_excluded_records.tsv"
+  }
+}

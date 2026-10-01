@@ -1,0 +1,7 @@
+quantity	value
+miRNA nodes	1154
+disease nodes	1342
+positive edges	13035
+precursor-family clusters	803
+cross-validation folds	5
+fold seeds	892,7739,6545,4388,4330

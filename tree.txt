@@ -1,0 +1,207 @@
+ncLeakCheck-Core
+ ┣ checkpoints
+ ┃ ┗ .gitkeep
+ ┣ configs
+ ┃ ┣ benchmark_spec.yaml
+ ┃ ┣ hmdd_curation_rules.yaml
+ ┃ ┗ project.yaml
+ ┣ data
+ ┃ ┣ embeddings
+ ┃ ┃ ┗ .gitkeep
+ ┃ ┣ processed
+ ┃ ┃ ┣ .gitkeep
+ ┃ ┃ ┣ hmdd_v4_broad_adjacency.npy
+ ┃ ┃ ┣ hmdd_v4_broad_entity_index.json
+ ┃ ┃ ┣ hmdd_v4_broad_graph_summary.json
+ ┃ ┃ ┣ hmdd_v4_curation_audit.json
+ ┃ ┃ ┣ hmdd_v4_excluded_records.tsv
+ ┃ ┃ ┣ hmdd_v4_human_broad.tsv
+ ┃ ┃ ┣ hmdd_v4_human_strict.tsv
+ ┃ ┃ ┣ hmdd_v4_raw_profile.json
+ ┃ ┃ ┣ hmdd_v4_raw_samples.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_adjacency.npy
+ ┃ ┃ ┣ hmdd_v4_strict_disease_label_variants.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_disease_registry.json
+ ┃ ┃ ┣ hmdd_v4_strict_disease_registry.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_entity_index.json
+ ┃ ┃ ┣ hmdd_v4_strict_graph_summary.json
+ ┃ ┃ ┣ hmdd_v4_strict_mirna_ambiguous.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_mirna_name_examples.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_mirna_seed_clusters.json
+ ┃ ┃ ┣ hmdd_v4_strict_mirna_sequence_mapping.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_mirna_unmapped.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_precursor_family_clusters.json
+ ┃ ┃ ┣ hmdd_v4_strict_precursor_sequence_mapping.tsv
+ ┃ ┃ ┣ hmdd_v4_strict_precursor_unmapped.tsv
+ ┃ ┃ ┗ hmdd_v4_strict_precursor_unmapped_profile.tsv
+ ┃ ┗ raw
+ ┃ ┃ ┣ hmdd
+ ┃ ┃ ┃ ┣ hmdd_download_manifest.json
+ ┃ ┃ ┃ ┣ hmdd_v4_2023_07_original.txt
+ ┃ ┃ ┃ ┣ hmdd_v4_2023_07_original.xlsx
+ ┃ ┃ ┃ ┣ raw_downloads_go_here.txt
+ ┃ ┃ ┃ ┗ SOURCE.md
+ ┃ ┃ ┣ mirbase
+ ┃ ┃ ┃ ┣ hairpin.fa
+ ┃ ┃ ┃ ┗ mature.fa
+ ┃ ┃ ┗ .gitkeep
+ ┣ diagnostics
+ ┃ ┣ __pycache__
+ ┃ ┃ ┗ metrics.cpython-310.pyc
+ ┃ ┗ metrics.py
+ ┣ engine
+ ┃ ┣ __pycache__
+ ┃ ┃ ┣ cold_start_negative_sampler.cpython-310.pyc
+ ┃ ┃ ┣ lightgcn_training.cpython-310.pyc
+ ┃ ┃ ┣ lightgcn_utils.cpython-310.pyc
+ ┃ ┃ ┣ negative_sampler.cpython-310.pyc
+ ┃ ┃ ┣ similarity_isolated.cpython-310.pyc
+ ┃ ┃ ┣ splitter.cpython-310.pyc
+ ┃ ┃ ┣ test_negative_sampler.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_negative_sampler.cpython-310.pyc
+ ┃ ┃ ┣ training_loop.cpython-310.pyc
+ ┃ ┃ ┗ __init__.cpython-310.pyc
+ ┃ ┣ cold_start_negative_sampler.py
+ ┃ ┣ lightgcn_training.py
+ ┃ ┣ lightgcn_utils.py
+ ┃ ┣ negative_sampler.py
+ ┃ ┣ similarity_isolated.py
+ ┃ ┣ splitter.py
+ ┃ ┣ test_negative_sampler.py
+ ┃ ┣ training_loop.py
+ ┃ ┣ training_loop_before_similarity.py
+ ┃ ┣ training_loop_similarity_aware.py
+ ┃ ┗ __init__.py
+ ┣ logs
+ ┃ ┣ .gitkeep
+ ┃ ┣ day01_environment_check.log
+ ┃ ┣ hmdd_v4_curation_report.md
+ ┃ ┣ hmdd_v4_graph_summary.md
+ ┃ ┣ hmdd_v4_primary_dataset_verification.md
+ ┃ ┣ hmdd_v4_raw_inspection.md
+ ┃ ┣ hmdd_v4_schema_profile.md
+ ┃ ┣ hmdd_v4_strict_disease_registry_report.md
+ ┃ ┣ hmdd_v4_strict_mirna_seed_report.md
+ ┃ ┗ hmdd_v4_strict_precursor_family_report.md
+ ┣ manuscript
+ ┣ models
+ ┃ ┣ __pycache__
+ ┃ ┃ ┣ decoupled_mlp.cpython-310.pyc
+ ┃ ┃ ┣ gcn_link_predictor.cpython-310.pyc
+ ┃ ┃ ┣ lightgcn_bipartite.cpython-310.pyc
+ ┃ ┃ ┗ lightgcn_bipartite_clean.cpython-310.pyc
+ ┃ ┣ decoupled_mlp.py
+ ┃ ┣ gcn_link_predictor.py
+ ┃ ┣ lightgcn_bipartite.py
+ ┃ ┗ lightgcn_bipartite_clean.py
+ ┣ results
+ ┃ ┣ benchmarks
+ ┃ ┃ ┣ pre_similarity_integration
+ ┃ ┃ ┃ ┣ gcn_abc_ratio1_console.txt
+ ┃ ┃ ┃ ┣ mlp_abc_ratio1_console.txt
+ ┃ ┃ ┃ ┣ mlp_abc_ratio2_console.txt
+ ┃ ┃ ┃ ┣ mlp_abc_ratio2_raw.json
+ ┃ ┃ ┃ ┗ mlp_gcn_lightgcn_ab_smoke_raw.json
+ ┃ ┃ ┣ gcn_abc_ratio1_console.txt
+ ┃ ┃ ┣ gcn_similarity_aware_abc_ratio2_raw.json
+ ┃ ┃ ┣ lightgcn_abc_ratio1_console.txt
+ ┃ ┃ ┣ lightgcn_abc_ratio1_onefold.txt
+ ┃ ┃ ┣ lightgcn_abc_ratio1_raw.json
+ ┃ ┃ ┣ lightgcn_abc_ratio2_console.txt
+ ┃ ┃ ┣ lightgcn_abc_ratio2_raw.json
+ ┃ ┃ ┣ mlp_abc_ratio1_console.txt
+ ┃ ┃ ┣ mlp_abc_ratio2_console.txt
+ ┃ ┃ ┣ mlp_abc_ratio2_raw.json
+ ┃ ┃ ┣ mlp_gcn_lightgcn_ab_smoke_raw.json
+ ┃ ┃ ┣ mlp_similarity_aware_abc_ratio2_raw.json
+ ┃ ┃ ┗ mlp_similarity_aware_abc_ratio2_smoke.json
+ ┃ ┣ figures
+ ┃ ┃ ┣ .gitkeep
+ ┃ ┃ ┗ figure_imbalance_sensitivity.png
+ ┃ ┣ raw
+ ┃ ┃ ┣ .gitkeep
+ ┃ ┃ ┣ gcn_similarity_aware_degree_regime_b.json
+ ┃ ┃ ┣ gcn_similarity_aware_imbalance_regime_b.json
+ ┃ ┃ ┣ mlp_similarity_aware_degree_regime_b.json
+ ┃ ┃ ┗ mlp_similarity_aware_imbalance_regime_b.json
+ ┃ ┗ tables
+ ┃ ┃ ┣ .gitkeep
+ ┃ ┃ ┣ similarity_aware_abc_ratio2_summary.json
+ ┃ ┃ ┣ similarity_aware_abc_ratio2_summary.tsv
+ ┃ ┃ ┣ similarity_aware_imbalance_regime_b_summary.json
+ ┃ ┃ ┣ similarity_aware_imbalance_regime_b_summary.tsv
+ ┃ ┃ ┗ similarity_aware_significance.json
+ ┣ scripts
+ ┃ ┣ __pycache__
+ ┃ ┃ ┣ run_benchmark_mlp_gcn_lightgcn.cpython-310.pyc
+ ┃ ┃ ┗ __init__.cpython-310.pyc
+ ┃ ┣ build_disease_registry.py
+ ┃ ┣ build_hmdd_entity_registry.py
+ ┃ ┣ build_mirna_seed_clusters.py
+ ┃ ┣ build_precursor_family_clusters.py
+ ┃ ┣ curate_hmdd_v4.py
+ ┃ ┣ diagnose_lightgcn_cold.py
+ ┃ ┣ inspect_hmdd_mirna_names.py
+ ┃ ┣ inspect_hmdd_raw.py
+ ┃ ┣ plot_imbalance_sensitivity.py
+ ┃ ┣ profile_hmdd_v4.py
+ ┃ ┣ profile_precursor_unmapped.py
+ ┃ ┣ report_similarity_aware_significance.py
+ ┃ ┣ run_benchmark_mlp_gcn_lightgcn.py
+ ┃ ┣ run_lightgcn_abc_ratio1.py
+ ┃ ┣ run_lightgcn_abc_ratio2.py
+ ┃ ┣ run_lightgcn_onefold.py
+ ┃ ┣ run_lightgcn_regime_smoke.py
+ ┃ ┣ run_lightgcn_smoke.py
+ ┃ ┣ run_mlp_gcn_abc_ratio2.py
+ ┃ ┣ run_mlp_gcn_similarity_aware_abc_ratio2.py
+ ┃ ┣ run_regime_ab.py
+ ┃ ┣ run_similarity_aware_degree_audit.py
+ ┃ ┣ run_similarity_aware_imbalance_regime_b.py
+ ┃ ┣ smoke_similarity_aware.py
+ ┃ ┣ smoke_similarity_aware_imbalance.py
+ ┃ ┣ summarize_similarity_aware_benchmarks.py
+ ┃ ┣ summarize_similarity_aware_imbalance.py
+ ┃ ┣ verify_env.py
+ ┃ ┣ verify_hmdd_primary_dataset.py
+ ┃ ┗ __init__.py
+ ┣ tests
+ ┃ ┣ __pycache__
+ ┃ ┃ ┣ test_cold_start_negative_sampler.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_decoupled_mlp.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_final_result_integrity.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_gcn_link_predictor.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_lightgcn_bipartite.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_lightgcn_bipartite_clean.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_lightgcn_training.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_lightgcn_utils.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_metrics.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_negative_sampler.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_similarity_aware.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_similarity_aware_statistics.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_similarity_isolated.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_splitter.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_splitter_leakage.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_splitter_regime_c.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┣ test_training_loop.cpython-310-pytest-7.4.4.pyc
+ ┃ ┃ ┗ __init__.cpython-310.pyc
+ ┃ ┣ test_cold_start_negative_sampler.py
+ ┃ ┣ test_decoupled_mlp.py
+ ┃ ┣ test_final_result_integrity.py
+ ┃ ┣ test_gcn_link_predictor.py
+ ┃ ┣ test_lightgcn_bipartite.py
+ ┃ ┣ test_lightgcn_bipartite_clean.py
+ ┃ ┣ test_lightgcn_training.py
+ ┃ ┣ test_lightgcn_utils.py
+ ┃ ┣ test_metrics.py
+ ┃ ┣ test_negative_sampler.py
+ ┃ ┣ test_similarity_aware.py
+ ┃ ┣ test_similarity_aware_statistics.py
+ ┃ ┣ test_similarity_isolated.py
+ ┃ ┣ test_splitter.py
+ ┃ ┣ test_splitter_leakage.py
+ ┃ ┣ test_splitter_regime_c.py
+ ┃ ┣ test_training_loop.py
+ ┃ ┗ __init__.py
+ ┣ .gitignore
+ ┗ readme.md
